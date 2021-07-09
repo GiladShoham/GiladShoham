@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **GiladShoham/GiladShoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GiladShoham.GiladShoham)
-![Gilad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiladShoham&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiladShoham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h1 align="center">Hi 👋, I'm Gilad Shoham</h1>
 <h3 align="center">Tech leader from Israel</h3>
