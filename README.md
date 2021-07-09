@@ -160,3 +160,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giladshoham&theme=dark"
     alt="giladshoham" /></p>
+    
+[![Gilad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shohamgilad)](https://github.com/anuraghazra/github-readme-stats)
+
