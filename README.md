@@ -1,5 +1,3 @@
-
-
 <!--
 **GiladShoham/GiladShoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +33,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://www.linkedin.com/in/shohamgilad/](https://www.linkedin.com/in/shohamgilad/)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
 - [How Being a Dad Makes me a Better Developer (and Vice Versa)](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
 - [7 Javascript EEG Mind Reading Libraries for 2019](https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7?source=rss-8311225defe2------2)
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
       src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-    src="https://github-readme-stats-giladshoham.vercel.app/api/top-langs?username=giladshoham&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact"
+    src="https://github-readme-stats-giladshoham.vercel.app/api/top-langs?username=giladshoham&exclude_repo=RedRock&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact"
     alt="giladshoham" /></p>
 
 <p>&nbsp;<img align="center"
@@ -164,51 +164,51 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-🌆 Daytime    311 commits    ███████████████░░░░░░░░░░   63.34% 
-🌃 Evening    122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.85% 
+🌞 Morning    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.33%
+🌆 Daytime    311 commits    ███████████████░░░░░░░░░░   63.34%
+🌃 Evening    122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.85%
 🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Wednesday    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-Thursday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
-Friday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+Monday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13%
+Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85%
+Wednesday    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22%
+Thursday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11%
+Friday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 Sunday       111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.61%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       ████████████████████░░░░░   83.36% 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
-MDX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+💬 Programming Languages:
+TypeScript               2 hrs 44 mins       ████████████████████░░░░░   83.36%
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
+MDX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
-🐱‍💻 Projects: 
-bit                      2 hrs 48 mins       █████████████████████░░░░   85.45% 
-bit-angular              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+🐱‍💻 Projects:
+bit                      2 hrs 48 mins       █████████████████████░░░░   85.45%
+bit-angular              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29%
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 ins                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png)
 
+Last Updated on 09/07/2021
 
- Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
