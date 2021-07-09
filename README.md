@@ -150,7 +150,7 @@ Here are some ideas to get you started:
       src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=giladshoham&show_icons=true&theme=dark&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=giladshoham&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact"
     alt="giladshoham" /></p>
 
 <p>&nbsp;<img align="center"
