@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505?source=rss-8311225defe2------2)
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308?source=rss-8311225defe2------2)
 <!-- BLOG-POST-LIST:END -->
+- [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
