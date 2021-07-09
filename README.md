@@ -154,7 +154,7 @@ Here are some ideas to get you started:
     alt="giladshoham" /></p>
 
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=giladshoham&show_icons=true&theme=dark&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=giladshoham&show_icons=true&theme=vision-friendly-dark&locale=en"
     alt="giladshoham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giladshoham&theme=dark"
