@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GiladShoham.GiladShoham)
+![Gilad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiladShoham&show_icons=true&theme=vision-friendly-dark)
