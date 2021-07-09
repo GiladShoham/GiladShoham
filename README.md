@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
+- [How Being a Dad Makes me a Better Developer (and Vice Versa)](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
+- [7 Javascript EEG Mind Reading Libraries for 2019](https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7?source=rss-8311225defe2------2)
+- [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505?source=rss-8311225defe2------2)
+- [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308?source=rss-8311225defe2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
