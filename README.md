@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gilad Shoham</h1>
-<h3 align="center">Tech leader from Israel</h3>
+<h3 align="center">Tech leader, Architect, Open source enthusiast from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giladshoham&label=Profile%20views&color=0e75b6&style=flat-square" alt="giladshoham" /> </p>
 
