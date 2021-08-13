@@ -161,7 +161,7 @@ Here are some ideas to get you started:
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **I'm an Early 🐤** 
 
@@ -190,16 +190,10 @@ Sunday       113 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               53 mins             █████████████░░░░░░░░░░░░   54.4% 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.04% 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bit                      1 hr 2 mins         ███████████████░░░░░░░░░░   63.07% 
-tailwind-bit             20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-react-tailwind-dspacejs  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+No Activity Tracked This Week
 
 ```
 
@@ -208,5 +202,5 @@ react-tailwind-dspacejs  16 mins             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
