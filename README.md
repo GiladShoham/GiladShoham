@@ -161,7 +161,7 @@ Here are some ideas to get you started:
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **I'm an Early 🐤** 
 
@@ -175,13 +175,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Monday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
 Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
 Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
 Friday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.08% 
 Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-Sunday       106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.5%
+Sunday       109 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11%
 
 ```
 
@@ -202,5 +202,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
