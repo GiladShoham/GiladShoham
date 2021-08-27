@@ -43,6 +43,103 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 - [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
 
+### Recent talks (Hebrew)
+<details>
+  <summary>
+    <a href="https://bit.ly/in-dev-video">Building bit - Lessons Learned In The Trenches</a>
+    <span>, Feb 9, 2020, In.Dev Meetup ,</span>
+    <a href="http://bit.ly/in-dev">slides</a>
+  </summary>
+  <div>
+More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
+
+In this talk I will introduce Bit, talk about the challenges and opportunities of building a core piece of your technology with the community, the challenges of having to play hand in hand with the rapidly-changing open source ecosystem (from Git & NPM to Webpack and React) and share some insights for teams who want to open source some of their projects
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://bit.ly/SharingInTheWildVid">From libraries to monorepos and beyond</a>
+    <span>, Feb 26, 2019, JS Israel (Google office) ,</span>
+    <a href="http://bit.ly/SharingInTheWildSlides">slides</a>
+  </summary>
+  <div>
+Sharing components between apps speeds our development and provides a better experience for our users.The key to effective, scalable code-sharing lies in the architecture and tools we choose. In this talk I'll review the growth, pros and cons of this ecosystem from shared libraries through monorepos to new tools, and show a live demo of Bit- an open source project we created and use to share components between apps.
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="http://bit.ly/share-components">Share these components</a>
+    <span>, Oct 17, 2018, React Israel (Facebook office) ,</span>
+    <a href="http://bit.ly/share-components-slides">slides</a>
+  </summary>
+  <div>
+React encourages us to compose our application's UI from smaller reusable components.
+
+Every button, slider or card is a component while larger elements can be composed out of smaller components to create new applications.
+
+But, what happens when we want to share and reuse these components?
+
+In this talk, we'll dive into this question and learn how different architectures, from multi-repo to monorepo, affect our team's ability to share and reuse components. We'll explore how different tools in the ecosystem play a role in this use case, and learn how Bit can help us isolate and share large numbers of components, making them available to discover, use and develop anywhere in a distributed workflow. The session will include a live coding demo session and Q&A.
+
+Gilad Shoham leads Bit's core open source team. He previously led a Javascript team at Sisense and is a lifelong contributor and speaker in the dev community.
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://bit.ly/reversim2018">Building bit - Lessons Learned In The Trenches</a>
+    <span>, Oct 8, 2018, Reversim 2018 ,</span>
+    <a href="http://bit.ly/reversim2018slides">slides</a>
+  </summary>
+  <div>
+More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
+
+In this talk I will introduce Bit, talk about the challenges and opportunities of building a core piece of your technology with the community, the challenges of having to play hand in hand with the rapidly-changing open source ecosystem (from Git & NPM to Webpack and React) and share some insights for teams who want to open source some of their projects
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://bit.ly/react-resume">How and why I built my resume using React components</a>
+    <span>, Jun 6, 2018, Geektime code ,</span>
+    <a href="https://bit.ly/react-resume-slides">http://resume-presentation.surge.sh/</a>
+  </summary>
+  <div>
+In this talk, I’ll talk about why building an online resume site is a good idea, how it can increase your chances to get a job , and why React is a great tool for this purpose.
+
+I’ll give a live demonstration of a tool that can help you build those components easily and view them beautifully rendered in seconds.  
+</div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://bit.ly/tests-role">Let the tests play an active role</a>
+    <span>, Feb 20, 2018, Node.js IL ,</span>
+    <a href="https://bit.ly/tests-role-slides">slides</a>
+  </summary>
+  <div>
+This talk will change everything you know about testing.You’re used to thinking about tests as a passive tool which helps you learn about your application’s state.In this talk, I’ll show you how to take testing to the next level where tests can actually change your code, and become an active player in your development process.I will also talk about the relation between code modularity and writing tests, and show a live demo of how with the right tools you can adopt this approach today.
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://bit.ly/GQL-adoption">Accelerate your GraphQL adoption using bit</a>
+    <span>, Jul 13, 2017, GraphQL IL ,</span>
+    <a href="https://bit.ly/GQL-adoption-slides">slides</a>
+  </summary>
+  <div>
+This talk is about making the GraphQL consumer happier, which will serve our goal as publishers, to increase adoption.
+
+During this talk, I’ll describe a way for an organization to use components as a way to accelerate its GraphQL adoption. This GraphQL can be a public to everyone or public to the organization only.
+
+I’ll describe the current problems with publishing and adopting APIs, and demonstrate a live demo of integrating GitHub GraphQL into my own project in few minutes by using components pre built by the publisher, without the need of reading any documentation (which as developers we hate doing).
+  </div>
+</details>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/giladshoham" target="blank"><img align="center"
