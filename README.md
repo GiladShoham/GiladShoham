@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
 - [How Being a Dad Makes me a Better Developer (and Vice Versa)](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
 - [7 Javascript EEG Mind Reading Libraries for 2019](https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7?source=rss-8311225defe2------2)
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 - [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
 
 ### Recent talks (Hebrew)
+
 <details>
   <summary>
     <a href="https://bit.ly/in-dev-video">Building bit - Lessons Learned In The Trenches</a>
@@ -54,6 +56,7 @@ Here are some ideas to get you started:
 More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
 
 In this talk I will introduce Bit, talk about the challenges and opportunities of building a core piece of your technology with the community, the challenges of having to play hand in hand with the rapidly-changing open source ecosystem (from Git & NPM to Webpack and React) and share some insights for teams who want to open source some of their projects
+
   </div>
 </details>
 
@@ -84,6 +87,7 @@ But, what happens when we want to share and reuse these components?
 In this talk, we'll dive into this question and learn how different architectures, from multi-repo to monorepo, affect our team's ability to share and reuse components. We'll explore how different tools in the ecosystem play a role in this use case, and learn how Bit can help us isolate and share large numbers of components, making them available to discover, use and develop anywhere in a distributed workflow. The session will include a live coding demo session and Q&A.
 
 Gilad Shoham leads Bit's core open source team. He previously led a Javascript team at Sisense and is a lifelong contributor and speaker in the dev community.
+
   </div>
 </details>
 
@@ -97,6 +101,7 @@ Gilad Shoham leads Bit's core open source team. He previously led a Javascript t
 More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
 
 In this talk I will introduce Bit, talk about the challenges and opportunities of building a core piece of your technology with the community, the challenges of having to play hand in hand with the rapidly-changing open source ecosystem (from Git & NPM to Webpack and React) and share some insights for teams who want to open source some of their projects
+
   </div>
 </details>
 
@@ -109,7 +114,8 @@ In this talk I will introduce Bit, talk about the challenges and opportunities o
   <div>
 In this talk, I’ll talk about why building an online resume site is a good idea, how it can increase your chances to get a job , and why React is a great tool for this purpose.
 
-I’ll give a live demonstration of a tool that can help you build those components easily and view them beautifully rendered in seconds.  
+I’ll give a live demonstration of a tool that can help you build those components easily and view them beautifully rendered in seconds.
+
 </div>
 </details>
 
@@ -136,9 +142,47 @@ This talk is about making the GraphQL consumer happier, which will serve our goa
 During this talk, I’ll describe a way for an organization to use components as a way to accelerate its GraphQL adoption. This GraphQL can be a public to everyone or public to the organization only.
 
 I’ll describe the current problems with publishing and adopting APIs, and demonstrate a live demo of integrating GitHub GraphQL into my own project in few minutes by using components pre built by the publisher, without the need of reading any documentation (which as developers we hate doing).
+
   </div>
 </details>
 
+### My Home Automation podcast (Hebrew)
+
+<details>
+  <summary>
+    <a href="https://bit.ly/dira_lehaskil-ep4">EP #4 - Required infrastructure during building/renovation - part 2</a>
+    <span>, September 11, 2021,</span>
+    <a href="https://bit.ly/dira_lehaskil_ep3-4_summery">Written summery</a>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
+    <a href="https://bit.ly/dira_lehaskil_ep3">EP #3 - Required infrastructure during building/renovation - part 1</a>
+    <span>, August 29, 2021,</span>
+    <a href="https://bit.ly/dira_lehaskil_ep3-4_summery">Written summery</a>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
+    <a href="https://bit.ly/dira_lehaskil-ep2">EP #2 - How to start with home automation</a>
+    <span>, March 6, 2020,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
+    <a href="https://bit.ly/dira_lehaskil-ep1">EP #1 - Why do you need smart home</a>
+    <span>, February 12, 2020,</span>
+    <a href="http://bit.ly/dira_lehaskil_ep1_summery">Written summery</a>
+  </summary>
+  <div>
+  </div>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -260,52 +304,52 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-🌆 Daytime    328 commits    ████████████████░░░░░░░░░   64.44% 
-🌃 Evening    105 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+🌞 Morning    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
+🌆 Daytime    328 commits    ████████████████░░░░░░░░░   64.44%
+🌃 Evening    105 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63%
 🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Wednesday    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
-Friday       104 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72%
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
+Wednesday    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29%
+Friday       104 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43%
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 Sunday       109 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               9 hrs 58 mins       ██████████████████░░░░░░░   72.02% 
-JavaScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
+💬 Programming Languages:
+TypeScript               9 hrs 58 mins       ██████████████████░░░░░░░   72.02%
+JavaScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   14.61%
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.18%
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
 YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
 
-🐱‍💻 Projects: 
-bit                      12 hrs 13 mins      ██████████████████████░░░   88.31% 
-my-react-ws9             27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-my-react-ws8             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
-4df0367af3c61863ef96f184e13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+🐱‍💻 Projects:
+bit                      12 hrs 13 mins      ██████████████████████░░░   88.31%
+my-react-ws9             27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29%
+my-react-ws8             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
+4df0367af3c61863ef96f184e13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 82mt14j8-local           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png)
 
+Last Updated on 28/10/2021
 
- Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
