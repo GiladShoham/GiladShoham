@@ -301,8 +301,6 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
@@ -350,5 +348,5 @@ my-react-ws              45 mins             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 18:45:14 UTC
+ Last Updated on 19/02/2022 18:44:29 UTC
 <!--END_SECTION:waka-->
