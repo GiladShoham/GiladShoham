@@ -301,8 +301,6 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C449%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -317,10 +315,10 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
 Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
 Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
+Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
 Friday       111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.2%
@@ -352,5 +350,5 @@ react-jest-esm           4 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/03/2022 18:46:45 UTC
+ Last Updated on 10/03/2022 18:47:24 UTC
 <!--END_SECTION:waka-->
