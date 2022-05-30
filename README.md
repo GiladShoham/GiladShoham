@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://medium.com/@giladshoham](https://medium.com/@giladshoham)
 
-- 💬 Ask me about **Node.js, Reach, GraphQL, Mongo, Smart home, Home Assistant, Webpack, Babel, TS, Eslint**
+- 💬 Ask me about **Node.js, React, GraphQL, Mongo, Smart home, Home Assistant, Webpack, Babel, TS, Eslint**
 
 - 📫 How to reach me **shoham.gilad@gmail.com**
 
