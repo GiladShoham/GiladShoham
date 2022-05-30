@@ -146,7 +146,15 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 </details>
 
 ### My Home Automation podcast (Hebrew)
-
+<details>
+  <summary>
+    <a href="https://bit.ly/dira_lehaskil_ep5">EP #5 - The protocols war</a>
+    <span>, May 5, 2022,</span>
+    <a href="https://bit.ly/dira_lehaskil_ep5_summery">Written summery</a>
+  </summary>
+  <div>
+  </div>
+</details>
 <details>
   <summary>
     <a href="https://bit.ly/dira_lehaskil-ep4">EP #4 - Required infrastructure during building/renovation - part 2</a>
