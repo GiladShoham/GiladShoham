@@ -190,6 +190,23 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
   <div>
   </div>
 </details>
+### Me on other's podcast (Hebrew)
+<details>
+  <summary>
+    <a href="https://bit.ly/open-kod-pod-ep12-podbean">Open Code - EP #12 - Component driven organizations</a>
+    <span>, May 19, 2022,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
+    <a href="https://bit.ly/nisko-smart-ep4-podbean">Nisko Smart - EP #4 - Super user - advanced home automation</a>
+    <span>, January 10, 2022,</span>
+  </summary>
+  <div>
+  </div>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
