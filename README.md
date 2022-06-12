@@ -327,7 +327,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C602%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -344,12 +344,12 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 
 ```text
 Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-Tuesday      61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
 Wednesday    68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
 Thursday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
 Friday       115 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.43%
+Sunday       97 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64%
 
 ```
 
@@ -378,5 +378,5 @@ dunelm                   15 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 18:45:14 UTC
+ Last Updated on 12/06/2022 18:45:19 UTC
 <!--END_SECTION:waka-->
