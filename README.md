@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 - [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
 
-### Recent talks (Hebrew)
+### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 
 <details>
   <summary>
