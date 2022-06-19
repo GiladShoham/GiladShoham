@@ -327,7 +327,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C609%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C610%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -378,5 +378,5 @@ test-root-comp           18 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 18:48:16 UTC
+ Last Updated on 19/06/2022 18:45:31 UTC
 <!--END_SECTION:waka-->
