@@ -44,6 +44,32 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 - [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
 
+### Recent talks (English)  
+
+<details>
+  <summary>
+    <a href="https://bit.ly/cd-ms">Component-driven microservices with NodeJS and Bit</a>
+    <span>, Jun 29, 2022, Online ,</span>
+    <a href="https://bit.cloud/shohamgilad/ms-demo">demo</a>
+  </summary>
+  <div>
+We all love components on the frontend, but have you tried them on the backend?
+
+In this live coding session, Gilad, Bit's VP R&D, will show you how to compose component-driven microservices using NodeJS, Express and Bit. 
+
+Join him to learn how to:
+- Compose 2 component-driven microservices from scratch.
+- Easily add, modify, and remove components from your services.
+- Share managed components between services to radically speed up backend development. 
+- Easily manage dependencies and updates between components and services.
+- Gradually build a reusable toolbox of backend components.
+- Modify and update components in the context of another service or project.
+- Avoid configs and have a smooth dev experience.
+
+
+  </div>
+</details>
+
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 
 <details>
