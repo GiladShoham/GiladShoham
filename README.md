@@ -404,5 +404,5 @@ inject-head              27 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 18:54:01 UTC
+ Last Updated on 10/09/2022 18:53:07 UTC
 <!--END_SECTION:waka-->
