@@ -353,15 +353,15 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C807%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C811%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-🌆 Daytime    334 commits    █████████████████░░░░░░░░   68.02% 
+🌞 Morning    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+🌆 Daytime    335 commits    █████████████████░░░░░░░░   68.23% 
 🌃 Evening    89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
@@ -369,13 +369,13 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Tuesday      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Monday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
 Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
 Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
 Friday       116 commits    ██████░░░░░░░░░░░░░░░░░░░   23.63% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.9%
+Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31%
 
 ```
 
@@ -402,5 +402,5 @@ symphony                 31 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:55:00 UTC
+ Last Updated on 02/10/2022 18:57:44 UTC
 <!--END_SECTION:waka-->
