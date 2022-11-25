@@ -73,6 +73,23 @@ Join him to learn how to:
 
 <details>
   <summary>
+    <a href="https://bit.ly/rs22-smart-home-video">The Golem Turns On His Creator – How I took home automation too far</a>
+    <span>, October 25, 2022, Reversim 2022 summit ,</span>
+  </summary>
+  <div>
+How smart should you make your house?
+Ever wished you can automate everything in your home? Really everything?
+For 5 years I’ve been radically automating my house: It finds my phone and reports its location when I ask, it starts boiling water when my baby starts to cry, and it calls my phone when my spouse calls me downstairs.
+I won’t lie, it’s pretty awesome.
+But a smart home is a powerful servant and a dangerous master.
+My home has become a weapon for my kids against me. It tried to sabotage my marriage. It even made me live in the dark. But I survived.
+In this talk, I will share my experience and raw footage of an experiment gone too far. Together we’ll try to create a useful toolbox of does and don’ts for the brave smart home engineer.
+
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/in-dev-video">Building bit - Lessons Learned In The Trenches</a>
     <span>, Feb 9, 2020, In.Dev Meetup ,</span>
     <a href="http://bit.ly/in-dev">slides</a>
