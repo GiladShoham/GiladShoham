@@ -73,8 +73,8 @@ Join him to learn how to:
 
 <details>
   <summary>
-    <a href="[https://bit.ly/rs22-smart-home-video](https://bit.ly/nwd-smart-home)">
-      The Golem Turns On His Creator – How I took home automation too far - Extended version
+    <a href="https://bit.ly/nwd-smart-home)">
+      The Golem Turns On His Creator – How I took home automation too far (Extended version)
     </a>
     <span>, December 27, 2022, Negev Web Developer Meetup ,</span>
   </summary>
