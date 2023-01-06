@@ -73,15 +73,45 @@ Join him to learn how to:
 
 <details>
   <summary>
+    <a href="[https://bit.ly/rs22-smart-home-video](https://bit.ly/nwd-smart-home)">
+      The Golem Turns On His Creator – How I took home automation too far - Extended version
+    </a>
+    <span>, December 27, 2022, Negev Web Developer Meetup ,</span>
+  </summary>
+  <div>
+How smart should you make your house?
+    
+Ever wished you can automate everything in your home? Really everything?
+    
+For 5 years I’ve been radically automating my house: It finds my phone and reports its location when I ask, it starts boiling water when my baby starts to cry, and it calls my phone when my spouse calls me downstairs.
+    
+I won’t lie, it’s pretty awesome.
+    
+But a smart home is a powerful servant and a dangerous master.
+    
+My home has become a weapon for my kids against me. It tried to sabotage my marriage. It even made me live in the dark. But I survived.
+In this talk, I will share my experience and raw footage of an experiment gone too far. Together we’ll try to create a useful toolbox of does and don’ts for the brave smart home engineer.
+    
+This extended version includs a live demo with me demonstrate a live spin-up of a home assistant using Docker Compose, with some assistance from the GPT3 chat. I even created an automation that changes the color of a lamp when my Mac is connected or disconnected from a power source.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/rs22-smart-home-video">The Golem Turns On His Creator – How I took home automation too far</a>
     <span>, October 25, 2022, Reversim 2022 summit ,</span>
   </summary>
   <div>
 How smart should you make your house?
+    
 Ever wished you can automate everything in your home? Really everything?
+    
 For 5 years I’ve been radically automating my house: It finds my phone and reports its location when I ask, it starts boiling water when my baby starts to cry, and it calls my phone when my spouse calls me downstairs.
+    
 I won’t lie, it’s pretty awesome.
+    
 But a smart home is a powerful servant and a dangerous master.
+    
 My home has become a weapon for my kids against me. It tried to sabotage my marriage. It even made me live in the dark. But I survived.
 In this talk, I will share my experience and raw footage of an experiment gone too far. Together we’ll try to create a useful toolbox of does and don’ts for the brave smart home engineer.
 
