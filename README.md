@@ -400,7 +400,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C070%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C072%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -417,12 +417,12 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 
 ```text
 Monday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
+Tuesday      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
 Wednesday    104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
 Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
 Friday       118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.45% 
 Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
-Sunday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.2%
+Sunday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.37%
 
 ```
 
@@ -451,5 +451,5 @@ bit-cloud                2 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:40:58 UTC
+ Last Updated on 29/01/2023 18:45:04 UTC
 <!--END_SECTION:waka-->
