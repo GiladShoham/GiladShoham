@@ -402,7 +402,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C104%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -451,5 +451,5 @@ itai                     52 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2023 18:44:51 UTC
+ Last Updated on 11/02/2023 18:42:19 UTC
 <!--END_SECTION:waka-->
