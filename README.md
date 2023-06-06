@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 
+- [Celebrating 6 years at Bit - how and why](https://bit.ly/6-years-bit)
 <!-- BLOG-POST-LIST:START -->
 - [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
 - [How Being a Dad Makes me a Better Developer &lpar;and Vice Versa&rpar;](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
