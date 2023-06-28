@@ -73,6 +73,23 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://bit.ly/yt-mf-build-run-time-hodash">
+Micro Frontend Build time vs Runtime dependencies - a gentle equilibrium
+    </a>
+    <span>, May 17, 2023, Hodash Dev</span>
+  </summary>
+  <div>
+Microservices architecture has been a popular approach for developing complex backend services, but what about the front-end? Enter micro frontends, an emerging concept that breaks down monolithic front-end code into smaller, more manageable pieces. Each micro frontend is a self-contained unit with its own codebase, development team, and set of dependencies. 
+Unlike backend microservices, micro frontends end up being composed into a single frontend application. 
+
+There are two main phases where micro frontends can converge into a single application. Some organizations prefer to compose their micro frontends in the client at runtime, while others choose to bundle them together during the build process. This talk will explore the tradeoff between these approaches, examining factors such as team independence, time to ship to production, safe updates, runtime performance, and bundle optimization. 
+
+I will demonstrate how we combined these approaches in my organization and will share some tools and processes that will allow you to enjoy the benefits of both worlds.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/yt-ariel-talk)">
       The Golem Turns On His Creator – How I took home automation too far
     </a>
