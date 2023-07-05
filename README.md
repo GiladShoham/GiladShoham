@@ -308,6 +308,14 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/dev-out-of-the-box-buzzsprout-bit-part1">Dev out of the box - EP #43 - Components</a>
+    <span>, July 02, 2023,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
     <a href="https://bit.ly/open-kod-pod-ep12-podbean">Open Code - EP #12 - Component driven organizations</a>
     <span>, May 19, 2022,</span>
   </summary>
