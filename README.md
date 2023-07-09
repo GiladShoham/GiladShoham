@@ -308,6 +308,14 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/dev-out-of-the-box-buzzsprout-bit-part2">Dev out of the box - EP #44 - Components - part2</a>
+    <span>, July 09, 2023,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
     <a href="https://bit.ly/dev-out-of-the-box-buzzsprout-bit-part1">Dev out of the box - EP #43 - Components - part1</a>
     <span>, July 02, 2023,</span>
   </summary>
