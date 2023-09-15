@@ -305,6 +305,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
   </div>
 </details>
 
+### Me on other's podcast (English)
+<details>
+  <summary>
+    <a href="https://bit.ly/daniel-frey-bit">E17: Going Bit: All You Need To Know – Daniel Frey</a>
+    <span>, September 15, 2023,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
