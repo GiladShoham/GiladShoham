@@ -467,16 +467,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C567%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C571%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌞 Morning                41294 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 🌆 Daytime                216702 commits      ███████████████░░░░░░░░░░   61.68 % 
-🌃 Evening                73308 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+🌃 Evening                73312 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 🌙 Night                  20014 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -484,11 +484,11 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ```text
 Monday                   65357 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 Tuesday                  71025 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Wednesday                72112 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                72113 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 Thursday                 59168 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Friday                   5805 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 Saturday                 282 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   77565 commits       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Sunday                   77572 commits       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
 ```
 
 
@@ -515,5 +515,5 @@ kostas                   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2023 19:21:00 UTC
+ Last Updated on 01/10/2023 19:17:14 UTC
 <!--END_SECTION:waka-->
