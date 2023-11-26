@@ -48,6 +48,25 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
+    <a href="https://bit.ly/react-advanced-cod">Code on Demand: The Future of Code Collaboration</a>
+    <span>, Oct 23, 2023, React Advanced London</span>
+  </summary>
+  <div>
+What if you could use code the same way you use Netflix or Spotify?
+
+Imagine your entire code base organized as small components on the cloud, where you can import only what you need into any workspace. In fact, you can create an ad hoc workspace where you can use and modify only the components you need and export them back.
+
+In order to use code on demand, components need to be independent entities, which means that they have to include their source code, configuration and dependencies. This allows you to version them independently and import them into small dynamic workspaces which are then made much easier to navigate, setup and build. Independent component versioning also makes for independent teams, because this separates publishing updates from consuming them.
+
+When all your organization’s components are in the cloud, teams can discover them, discuss changes and visualize relationships, making collaboration between teams much simpler.
+
+Alongside its many advantages, this paradigm shift brings about considerable challenges, which may explain why this is not the standard way to manage code today. This talk is about the tools and methodologies required to overcome these challenges.
+
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/cd-ms">Component-driven microservices with NodeJS and Bit</a>
     <span>, Jun 29, 2022, Online ,</span>
     <a href="https://bit.cloud/shohamgilad/ms-demo">demo</a>
