@@ -534,5 +534,5 @@ git-ignore               50 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 19:30:35 UTC
+ Last Updated on 02/12/2023 19:17:39 UTC
 <!--END_SECTION:waka-->
