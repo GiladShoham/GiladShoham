@@ -327,7 +327,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (English)
 <details>
   <summary>
-    <a href="https://bit.ly/daniel-frey-bit">E17: Going Bit: All You Need To Know – Daniel Frey</a>
+    <a href="https://bit.ly/js-jabber-bit-main">EP #610 - Bit: Paving the Way for Component Management - Javascript Jabber</a>
+    <span>, December 6, 2023,</span>
+    <a href="https://bit.ly/js-jabber-bit-yt">Video format</a>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
+    <a href="https://bit.ly/daniel-frey-bit">EP #17: Going Bit: All You Need To Know – Daniel Frey</a>
     <span>, September 15, 2023,</span>
   </summary>
   <div>
