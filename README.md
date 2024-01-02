@@ -36,13 +36,14 @@ Here are some ideas to get you started:
 
 - [Celebrating 6 years at Bit - how and why](https://bit.ly/6-years-bit)
 <!-- BLOG-POST-LIST:START -->
-- [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
-- [How Being a Dad Makes me a Better Developer &lpar;and Vice Versa&rpar;](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
-- [7 Javascript EEG Mind Reading Libraries for 2019](https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7?source=rss-8311225defe2------2)
-- [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505?source=rss-8311225defe2------2)
-- [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308?source=rss-8311225defe2------2)
+- [Why I Left a Big Enterprise Position to Build an Open Source Project](https://bit.ly/my-journey-bit)
+- [How Being a Dad Makes me a Better Developer &lpar;and Vice Versa&rpar;](https://bit.ly/dad-developer)
+- [7 Javascript EEG Mind Reading Libraries for 2019](https://bit.ly/js-eeg)
+- [Get Better Type Checking in JavaScript with the Maybe Type](https://bit.ly/maybe-type)
+- [Keep Your Promises in TypeScript using async/await](https://bit.ly/ts-promises)
 <!-- BLOG-POST-LIST:END -->
-- [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
+- [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://bit.ly/juniors-hire)
+- [Make your GraphQL API Easier To Adopt Through Components](https://bit.ly/graphql-api-components)
 
 ### Recent talks (English)  
 
