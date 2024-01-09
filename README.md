@@ -279,6 +279,17 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
   </div>
 </details>
 
+### Recent Panels (Hebrew)
+<details>
+  <summary>
+    <a href="https://bit.ly/career-panel-zoom">Career and personal growth</a>
+    <span>, Dec 27, 2023,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+
 ### My Home Automation podcast (Hebrew)
 <details>
   <summary>
