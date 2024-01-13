@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shohamgilad/](https://www.linkedin.com/in/shohamgilad/)
 
+- 🔗 Link tree - https://linktr.ee/shohamgilad
+
 ### Blogs posts
 
 - [Celebrating 6 years at Bit - how and why](https://bit.ly/6-years-bit)
