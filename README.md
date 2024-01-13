@@ -465,7 +465,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
       alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank"> <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" /> </a> <a
+      src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="nextjs" width="40" height="40" /> </a> <a
     href="https://www.nginx.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
       width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img
