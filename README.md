@@ -360,8 +360,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/manager-to-leader-ep23">From manager to leader - EP #23 - Hiring the best talents in the world</a>
+    <span>, July 28, 2024,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
     <a href="https://bit.ly/dev-out-of-the-box-main-bit-part2">Dev out of the box - EP #44 - Components - part2</a>
-    <span>, July 09, 2023,</span>
+    <span>, February 09, 2023,</span>
   </summary>
   <div>
   </div>
