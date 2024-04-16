@@ -95,6 +95,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://bit.ly/indydevs-webinar">
+How to Create a Culture of Code Sharing and Reuse
+    </a>
+    <span>, April 7, 2024, Indydevs</span>
+  </summary>
+  <div>
+Let's build an easy, repeatable, and fun developer experience to share code, promote collaboration, and achieve consistency across apps and services.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/yt-mf-build-run-time-hodash">
 Micro Frontend Build time vs Runtime dependencies - a gentle equilibrium
     </a>
