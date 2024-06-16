@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giladshoham" alt="giladshoham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shohamgilad" target="blank"><img src="https://img.shields.io/twitter/follow/shohamgilad?logo=twitter&style=for-the-badge" alt="shohamgilad" /></a> </p>
+<p align="left"> <a href="https://x.com/shohamgilad" target="blank"><img src="https://img.shields.io/twitter/follow/shohamgilad?logo=twitter&style=for-the-badge" alt="shohamgilad" /></a> </p>
 
 - 🔭 I’m currently working on [bit](https://github.com/teambit/bit)
 
@@ -449,7 +449,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
   <a href="https://dev.to/giladshoham" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="giladshoham" height="30"
       width="40" /></a>
-  <a href="https://twitter.com/shohamgilad" target="blank"><img align="center"
+  <a href="https://x.com/shohamgilad" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="shohamgilad" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shohamgilad" target="blank"><img align="center"
