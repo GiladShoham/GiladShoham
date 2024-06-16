@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giladshoham" alt="giladshoham" /></a> </p>
 
-<p align="left"> <a href="https://x.com/shohamgilad" target="blank"><img src="https://img.shields.io/twitter/follow/shohamgilad?logo=twitter&style=for-the-badge" alt="shohamgilad" /></a> </p>
+<p align="left"> <a href="https://x.com/shohamgilad" target="blank"><img src="https://img.shields.io/twitter/follow/shohamgilad?logo=x&style=for-the-badge" alt="shohamgilad" /></a> </p>
 
 - 🔭 I’m currently working on [bit](https://github.com/teambit/bit)
 
