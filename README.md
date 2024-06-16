@@ -353,6 +353,14 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (English)
 <details>
   <summary>
+    <a href="https://bit.ly/develeap-TT-podcast-main">AI in code, and leadership in hi-tech - Develeap’s Tech Tuesday Unboxed</a>
+    <span>, June 9, 2024,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+<details>
+  <summary>
     <a href="https://bit.ly/rru251-main">EP #251 - Mastering Component Reusability - React Round up</a>
     <span>, March 20, 2024,</span>
     <a href="https://bit.ly/rru-fb-live">Video format</a>
