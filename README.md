@@ -95,6 +95,27 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://bit.ly/ripple-geektime">
+The Ripple Effect: Propagating Updates Across an Endless Graph of Components Dependencies
+    </a>
+    <span>, June 10, 2024, Geektime Code 2024</span>
+  </summary>
+  <div>
+Component-driven development is an increasingly popular development strategy. It enables autonomous teams to simultaneously deliver components that are independently built and versioned. 
+
+The composition of independent components, from the most elementary ones all the way to full systems, generates large and complex graphs of dependencies. Updating a single component can cause a ‘ripple effect’ where multiple composite components, at different levels of the composition hierarchies, are affected. This talk is about some of the challenges of propagating these updates at scale and proposed solutions, such as:
+
+1. How you can automate updates across a massive dependency graph and still feel safe with your updates (and why SemVer is not enough).
+2. How to optimize update propagation times.
+3. How to communicate and collaborate over updates like breaking API changes or deprecations.
+4. How to gain insights into the relations between your organization’s code components, teams and products
+5. How to enforce policies using the organization’s dependency graph.
+
+Implementing such solutions can vastly improve an organization’s dev velocity and product consistency and stability.
+  </div>
+</details>
+<details>
+  <summary>
     <a href="https://bit.ly/indydevs-webinar">
 How to Create a Culture of Code Sharing and Reuse
     </a>
