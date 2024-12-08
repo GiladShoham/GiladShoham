@@ -97,6 +97,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://bit.ly/mf-in-action">
+Micro Frontends in Action
+    </a>
+    <span>, November 28, 2024, Tikal - Frontend architecture in action</span>
+  </summary>
+  <div>
+Join Gilad, from Bit, as he shares practical insights from helping organizations of various sizes transition from monolithic frontends to micro frontends. Drawing from real-world examples, this talk will explore what worked, what didn’t, and how his team approached breaking down large frontends into modular, scalable components. Attendees will gain a deeper understanding of different approaches like runtime vs. build time composition, the pros and cons of each, and key questions to consider when choosing the right architecture for their needs.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/ripple-geektime">
 The Ripple Effect: Propagating Updates Across an Endless Graph of Components Dependencies
     </a>
@@ -116,6 +128,7 @@ The composition of independent components, from the most elementary ones all the
 Implementing such solutions can vastly improve an organization’s dev velocity and product consistency and stability.
   </div>
 </details>
+
 <details>
   <summary>
     <a href="https://bit.ly/indydevs-webinar">
