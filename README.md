@@ -425,6 +425,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/simple_ai_podlink">Simple AI - EP #94 - AI for developers</a>
+    <span>, December 22, 2024,</span>
+    <a href="https://bit.ly/simple_ai_yt">Video format</a>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/lo-techni-main">Lo Techni - EP #13 - Open source</a>
     <span>, June 23, 2024,</span>
   </summary>
@@ -433,7 +443,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/develeap-TT-podcast-main">Front cast - EP #21 - R&D scale in Harmony</a>
+    <a href="https://bit.ly/develeap-TT-podcast-main">Front Cast - EP #21 - R&D scale in Harmony</a>
     <span>, June 3, 2024,</span>
   </summary>
   <div>
