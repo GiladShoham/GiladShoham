@@ -425,6 +425,15 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/osim-tochna-podlink">Osim Tochna - AI for developers (deep dive)</a>
+    <span>, January 19 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/simple_ai_podlink">Simple AI - EP #94 - AI for developers</a>
     <span>, December 22, 2024,</span>
     <a href="https://bit.ly/simple_ai_yt">Video format</a>
