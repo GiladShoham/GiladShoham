@@ -444,6 +444,15 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 
 <details>
   <summary>
+    <a href="https://bit.ly/tech-radar-mf-soundcloud">Tikal Tech Radar Voice - Micro Frontends</a>
+    <span>, July 2, 2024,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/lo-techni-main">Lo Techni - EP #13 - Open source</a>
     <span>, June 23, 2024,</span>
   </summary>
