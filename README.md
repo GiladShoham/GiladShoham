@@ -647,7 +647,7 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C309%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C312%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -676,10 +676,15 @@ Sunday                   35877 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    19 mins             ██████████████████░░░░░░░   73.08 % 
+TypeScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dummy-bit                19 mins             ███████████████████░░░░░░   74.10 % 
+bitdev-envs              6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 ```
 
 **Timeline**
@@ -687,5 +692,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 19:10:32 UTC
+ Last Updated on 04/03/2025 19:12:09 UTC
 <!--END_SECTION:waka-->
