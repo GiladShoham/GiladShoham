@@ -438,6 +438,15 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://bit.ly/nisko-smart-ep10-podlink">Nisko Smart - EP #10 - Matter protocol for smart homes</a>
+    <span>, February 24, 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/osim-tochna-podlink">Osim Tochna - AI for developers (deep dive)</a>
     <span>, January 19 2025,</span>
   </summary>
