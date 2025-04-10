@@ -97,6 +97,19 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://bit.ly/‏beyond-snippets-he-30m-demo">
+From Generation to Composition: A New Era in AI Coding (30min + Demo version)
+    </a>
+    <span>, April 01, 2025, Hodash Dev</span>
+  </summary>
+  <div>
+AI code generators excel in benchmarks but often fall short in the real world. Why haven’t they revolutionized development? Because they generate code snippets that lack context, duplicate functionality, require manual integration, and can introduce errors.
+This talk presents a new approach to code generation that reuses existing code, follows company standards, tests for impact, and generates fully executable components ready for integration.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/beyond-snippets-he-20m">
 Beyond Snippets: Optimizing Code Generation by Reusing Existing Components (20min version)
     </a>
