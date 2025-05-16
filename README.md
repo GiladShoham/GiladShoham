@@ -441,6 +441,33 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Me on other's podcast (English)
 <details>
   <summary>
+    <a href="https://gilad.click/tcast-podlink">AI-Generated Code: Why 90% Fails and How to Win</a>
+    <span>, May 15, 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://gilad.click/the-developers-bakery-main">Bit & Composable Architecture – The Developers’ Bakery</a>
+    <span>, May 14, 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
+    <a href="https://gilad.click/js-jabber-676-bit-hope">Building Enterprise Infrastructure with Bit & AI – JavaScript Jabber</a>
+    <span>, May 9, 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/xtraw-podlink">AI-Powered Code: Composing the Future with Bit</a>
     <span>, March 7, 2025,</span>
   </summary>
