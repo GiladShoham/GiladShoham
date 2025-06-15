@@ -569,7 +569,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://gilad.click/develeap-TT-podcast-main">Front Cast - EP #21 - R&D scale in Harmony</a>
+    <a href="https://gilad.click/frontcast-ep21-spotify">Front Cast - EP #21 - R&D scale in Harmony</a>
     <span>, June 3, 2024,</span>
   </summary>
   <div>
