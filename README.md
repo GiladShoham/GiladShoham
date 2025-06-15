@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 
-- [Celebrating 6 years at Bit - how and why](https://bit.ly/6-years-bit)
+- [Celebrating 6 years at Bit - how and why](https://gilad.click/6-years-bit)
 <!-- BLOG-POST-LIST:START -->
 - [Why I Left a Big Enterprise Position to Build an Open Source Project](https://blog.bitsrc.io/why-i-left-a-big-enterprise-position-to-build-an-open-source-project-e6958c810745?source=rss-8311225defe2------2)
 - [How Being a Dad Makes me a Better Developer &lpar;and Vice Versa&rpar;](https://medium.com/hackernoon/how-being-a-dad-makes-me-a-better-developer-and-vice-versa-85a92884eeaf?source=rss-8311225defe2------2)
@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505?source=rss-8311225defe2------2)
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308?source=rss-8311225defe2------2)
 <!-- BLOG-POST-LIST:END -->
-- [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://bit.ly/juniors-hire)
-- [Make your GraphQL API Easier To Adopt Through Components](https://bit.ly/graphql-api-components)
+- [Getting Your First Job As A Junior Developer: The Psychological Perspective](https://gilad.click/juniors-hire)
+- [Make your GraphQL API Easier To Adopt Through Components](https://gilad.click/graphql-api-components)
 
 ### Recent talks (English)  
 
 <details>
   <summary>
-    <a href="https://bit.ly/react-advanced-cod">Code on Demand: The Future of Code Collaboration</a>
+    <a href="https://gilad.click/react-advanced-cod">Code on Demand: The Future of Code Collaboration</a>
     <span>, Oct 23, 2023, React Advanced London</span>
   </summary>
   <div>
@@ -72,7 +72,7 @@ Alongside its many advantages, this paradigm shift brings about considerable cha
 
 <details>
   <summary>
-    <a href="https://bit.ly/cd-ms">Component-driven microservices with NodeJS and Bit</a>
+    <a href="https://gilad.click/cd-ms">Component-driven microservices with NodeJS and Bit</a>
     <span>, Jun 29, 2022, Online ,</span>
     <a href="https://bit.cloud/shohamgilad/ms-demo">demo</a>
   </summary>
@@ -94,10 +94,10 @@ Join him to learn how to:
   </div>
 </details>
 
-### Recent talks (Hebrew) (<a href="https://bit.ly/gilad-shoham-talks">youtube playlist</a>) 
+### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
-    <a href="https://bit.ly/‏beyond-snippets-he-30m-demo">
+    <a href="https://gilad.click/‏beyond-snippets-he-30m-demo">
 From Generation to Composition: A New Era in AI Coding (30min + Demo version)
     </a>
     <span>, April 01, 2025, Hodash Dev</span>
@@ -110,7 +110,7 @@ This talk presents a new approach to code generation that reuses existing code, 
 
 <details>
   <summary>
-    <a href="https://bit.ly/beyond-snippets-he-20m">
+    <a href="https://gilad.click/beyond-snippets-he-20m">
 Beyond Snippets: Optimizing Code Generation by Reusing Existing Components (20min version)
     </a>
     <span>, March 05, 2025, Evolve to AI - Geektime</span>
@@ -123,7 +123,7 @@ This talk presents a new approach to code generation that reuses existing code, 
 
 <details>
   <summary>
-    <a href="https://bit.ly/beyond-snippets-he-1hr">
+    <a href="https://gilad.click/beyond-snippets-he-1hr">
 Beyond Snippets: Optimizing Code Generation by Reusing Existing Components (1 hour version)
     </a>
     <span>, February 17, 2025, Local meetup</span>
@@ -136,7 +136,7 @@ This talk presents a new approach to code generation that reuses existing code, 
 
 <details>
   <summary>
-    <a href="https://bit.ly/nwd-ai">
+    <a href="https://gilad.click/nwd-ai">
 From Generation to Composition: A New Era in AI (old version)
     </a>
     <span>, January 16, 2025, Negev Web Developers</span>
@@ -149,7 +149,7 @@ This talk presents a new approach to code generation that reuses existing code, 
 
 <details>
   <summary>
-    <a href="https://bit.ly/mf-in-action">
+    <a href="https://gilad.click/mf-in-action">
 Micro Frontends in Action
     </a>
     <span>, November 28, 2024, Tikal - Frontend architecture in action</span>
@@ -161,7 +161,7 @@ Join Gilad, from Bit, as he shares practical insights from helping organizations
 
 <details>
   <summary>
-    <a href="https://bit.ly/ripple-geektime">
+    <a href="https://gilad.click/ripple-geektime">
 The Ripple Effect: Propagating Updates Across an Endless Graph of Components Dependencies
     </a>
     <span>, June 10, 2024, Geektime Code 2024</span>
@@ -183,7 +183,7 @@ Implementing such solutions can vastly improve an organization’s dev velocity 
 
 <details>
   <summary>
-    <a href="https://bit.ly/indydevs-webinar">
+    <a href="https://gilad.click/indydevs-webinar">
 How to Create a Culture of Code Sharing and Reuse
     </a>
     <span>, April 7, 2024, Indydevs</span>
@@ -195,7 +195,7 @@ Let's build an easy, repeatable, and fun developer experience to share code, pro
 
 <details>
   <summary>
-    <a href="https://bit.ly/yt-mf-build-run-time-hodash">
+    <a href="https://gilad.click/yt-mf-build-run-time-hodash">
 Micro Frontend Build time vs Runtime dependencies - a gentle equilibrium
     </a>
     <span>, May 17, 2023, Hodash Dev</span>
@@ -212,7 +212,7 @@ I will demonstrate how we combined these approaches in my organization and will 
 
 <details>
   <summary>
-    <a href="https://bit.ly/yt-ariel-talk)">
+    <a href="https://gilad.click/yt-ariel-talk)">
       The Golem Turns On His Creator – How I took home automation too far
     </a>
     <span>, April 30, 2023, Ariel University</span>
@@ -236,7 +236,7 @@ In this talk, I will share my experience and raw footage of an experiment gone t
 
 <details>
   <summary>
-    <a href="https://bit.ly/nwd-smart-home)">
+    <a href="https://gilad.click/nwd-smart-home)">
       The Golem Turns On His Creator – How I took home automation too far (Extended version)
     </a>
     <span>, December 27, 2022, Negev Web Developer Meetup</span>
@@ -261,7 +261,7 @@ This extended version includs a live demo with me demonstrate a live spin-up of 
 
 <details>
   <summary>
-    <a href="https://bit.ly/rs22-smart-home-video">The Golem Turns On His Creator – How I took home automation too far</a>
+    <a href="https://gilad.click/rs22-smart-home-video">The Golem Turns On His Creator – How I took home automation too far</a>
     <span>, October 25, 2022, Reversim 2022 summit</span>
   </summary>
   <div>
@@ -283,9 +283,9 @@ In this talk, I will share my experience and raw footage of an experiment gone t
 
 <details>
   <summary>
-    <a href="https://bit.ly/in-dev-video">Building bit - Lessons Learned In The Trenches</a>
+    <a href="https://gilad.click/in-dev-video">Building bit - Lessons Learned In The Trenches</a>
     <span>, Feb 9, 2020, In.Dev Meetup ,</span>
-    <a href="http://bit.ly/in-dev">slides</a>
+    <a href="http://gilad.click/in-dev">slides</a>
   </summary>
   <div>
 More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
@@ -297,9 +297,9 @@ In this talk I will introduce Bit, talk about the challenges and opportunities o
 
 <details>
   <summary>
-    <a href="https://bit.ly/SharingInTheWildVid">From libraries to monorepos and beyond</a>
+    <a href="https://gilad.click/SharingInTheWildVid">From libraries to monorepos and beyond</a>
     <span>, Feb 26, 2019, JS Israel (Google office) ,</span>
-    <a href="http://bit.ly/SharingInTheWildSlides">slides</a>
+    <a href="http://gilad.click/SharingInTheWildSlides">slides</a>
   </summary>
   <div>
 Sharing components between apps speeds our development and provides a better experience for our users.The key to effective, scalable code-sharing lies in the architecture and tools we choose. In this talk I'll review the growth, pros and cons of this ecosystem from shared libraries through monorepos to new tools, and show a live demo of Bit- an open source project we created and use to share components between apps.
@@ -308,9 +308,9 @@ Sharing components between apps speeds our development and provides a better exp
 
 <details>
   <summary>
-    <a href="http://bit.ly/share-components">Share these components</a>
+    <a href="http://gilad.click/share-components">Share these components</a>
     <span>, Oct 17, 2018, React Israel (Facebook office) ,</span>
-    <a href="http://bit.ly/share-components-slides">slides</a>
+    <a href="http://gilad.click/share-components-slides">slides</a>
   </summary>
   <div>
 React encourages us to compose our application's UI from smaller reusable components.
@@ -328,9 +328,9 @@ Gilad Shoham leads Bit's core open source team. He previously led a Javascript t
 
 <details>
   <summary>
-    <a href="https://bit.ly/reversim2018">Building bit - Lessons Learned In The Trenches</a>
+    <a href="https://gilad.click/reversim2018">Building bit - Lessons Learned In The Trenches</a>
     <span>, Oct 8, 2018, Reversim 2018 ,</span>
-    <a href="http://bit.ly/reversim2018slides">slides</a>
+    <a href="http://gilad.click/reversim2018slides">slides</a>
   </summary>
   <div>
 More of today's applications are being built from smaller components and modules. However, the workflow around building with smaller components can also generate a lot of overhead. Bit is an open source project which helps developers discover, use and collaborate on shared components while distributing the development process itself.
@@ -342,9 +342,9 @@ In this talk I will introduce Bit, talk about the challenges and opportunities o
 
 <details>
   <summary>
-    <a href="https://bit.ly/react-resume">How and why I built my resume using React components</a>
+    <a href="https://gilad.click/react-resume">How and why I built my resume using React components</a>
     <span>, Jun 6, 2018, Geektime code ,</span>
-    <a href="https://bit.ly/react-resume-slides">http://resume-presentation.surge.sh/</a>
+    <a href="https://gilad.click/react-resume-slides">http://resume-presentation.surge.sh/</a>
   </summary>
   <div>
 In this talk, I’ll talk about why building an online resume site is a good idea, how it can increase your chances to get a job , and why React is a great tool for this purpose.
@@ -356,9 +356,9 @@ I’ll give a live demonstration of a tool that can help you build those compone
 
 <details>
   <summary>
-    <a href="https://bit.ly/tests-role">Let the tests play an active role</a>
+    <a href="https://gilad.click/tests-role">Let the tests play an active role</a>
     <span>, Feb 20, 2018, Node.js IL ,</span>
-    <a href="https://bit.ly/tests-role-slides">slides</a>
+    <a href="https://gilad.click/tests-role-slides">slides</a>
   </summary>
   <div>
 This talk will change everything you know about testing.You’re used to thinking about tests as a passive tool which helps you learn about your application’s state.In this talk, I’ll show you how to take testing to the next level where tests can actually change your code, and become an active player in your development process.I will also talk about the relation between code modularity and writing tests, and show a live demo of how with the right tools you can adopt this approach today.
@@ -367,9 +367,9 @@ This talk will change everything you know about testing.You’re used to thinkin
 
 <details>
   <summary>
-    <a href="https://bit.ly/GQL-adoption">Accelerate your GraphQL adoption using bit</a>
+    <a href="https://gilad.click/GQL-adoption">Accelerate your GraphQL adoption using bit</a>
     <span>, Jul 13, 2017, GraphQL IL ,</span>
-    <a href="https://bit.ly/GQL-adoption-slides">slides</a>
+    <a href="https://gilad.click/GQL-adoption-slides">slides</a>
   </summary>
   <div>
 This talk is about making the GraphQL consumer happier, which will serve our goal as publishers, to increase adoption.
@@ -394,7 +394,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/career-panel-zoom">Career and personal growth</a>
+    <a href="https://gilad.click/career-panel-zoom">Career and personal growth</a>
     <span>, Dec 27, 2023,</span>
   </summary>
   <div>
@@ -405,34 +405,34 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ### My Home Automation podcast (Hebrew)
 <details>
   <summary>
-    <a href="https://bit.ly/dira_lehaskil_ep5">EP #5 - The protocols war</a>
+    <a href="https://gilad.click/dira_lehaskil_ep5">EP #5 - The protocols war</a>
     <span>, May 5, 2022,</span>
-    <a href="https://bit.ly/dira_lehaskil_ep5_summery">Written summery</a>
+    <a href="https://gilad.click/dira_lehaskil_ep5_summery">Written summery</a>
   </summary>
   <div>
   </div>
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dira_lehaskil-ep4">EP #4 - Required infrastructure during building/renovation - part 2</a>
+    <a href="https://gilad.click/dira_lehaskil-ep4">EP #4 - Required infrastructure during building/renovation - part 2</a>
     <span>, September 11, 2021,</span>
-    <a href="https://bit.ly/dira_lehaskil_ep3-4_summery">Written summery</a>
+    <a href="https://gilad.click/dira_lehaskil_ep3-4_summery">Written summery</a>
   </summary>
   <div>
   </div>
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dira_lehaskil_ep3">EP #3 - Required infrastructure during building/renovation - part 1</a>
+    <a href="https://gilad.click/dira_lehaskil_ep3">EP #3 - Required infrastructure during building/renovation - part 1</a>
     <span>, August 29, 2021,</span>
-    <a href="https://bit.ly/dira_lehaskil_ep3-4_summery">Written summery</a>
+    <a href="https://gilad.click/dira_lehaskil_ep3-4_summery">Written summery</a>
   </summary>
   <div>
   </div>
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dira_lehaskil-ep2">EP #2 - How to start with home automation</a>
+    <a href="https://gilad.click/dira_lehaskil-ep2">EP #2 - How to start with home automation</a>
     <span>, March 6, 2020,</span>
   </summary>
   <div>
@@ -440,9 +440,9 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dira_lehaskil-ep1">EP #1 - Why do you need smart home</a>
+    <a href="https://gilad.click/dira_lehaskil-ep1">EP #1 - Why do you need smart home</a>
     <span>, February 12, 2020,</span>
-    <a href="http://bit.ly/dira_lehaskil_ep1_summery">Written summery</a>
+    <a href="http://gilad.click/dira_lehaskil_ep1_summery">Written summery</a>
   </summary>
   <div>
   </div>
@@ -478,7 +478,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/xtraw-podlink">AI-Powered Code: Composing the Future with Bit</a>
+    <a href="https://gilad.click/xtraw-podlink">AI-Powered Code: Composing the Future with Bit</a>
     <span>, March 7, 2025,</span>
   </summary>
   <div>
@@ -487,7 +487,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/develeap-TT-podcast-main">AI in code, and leadership in hi-tech - Develeap’s Tech Tuesday Unboxed</a>
+    <a href="https://gilad.click/develeap-TT-podcast-main">AI in code, and leadership in hi-tech - Develeap’s Tech Tuesday Unboxed</a>
     <span>, June 9, 2024,</span>
   </summary>
   <div>
@@ -496,25 +496,25 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/rru251-main">EP #251 - Mastering Component Reusability - React Round up</a>
+    <a href="https://gilad.click/rru251-main">EP #251 - Mastering Component Reusability - React Round up</a>
     <span>, March 20, 2024,</span>
-    <a href="https://bit.ly/rru-fb-live">Video format</a>
+    <a href="https://gilad.click/rru-fb-live">Video format</a>
   </summary>
   <div>
   </div>
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/js-jabber-bit-main">EP #610 - Bit: Paving the Way for Component Management - Javascript Jabber</a>
+    <a href="https://gilad.click/js-jabber-bit-main">EP #610 - Bit: Paving the Way for Component Management - Javascript Jabber</a>
     <span>, December 6, 2023,</span>
-    <a href="https://bit.ly/js-jabber-bit-yt">Video format</a>
+    <a href="https://gilad.click/js-jabber-bit-yt">Video format</a>
   </summary>
   <div>
   </div>
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/daniel-frey-bit">EP #17: Going Bit: All You Need To Know – Daniel Frey</a>
+    <a href="https://gilad.click/daniel-frey-bit">EP #17: Going Bit: All You Need To Know – Daniel Frey</a>
     <span>, September 15, 2023,</span>
   </summary>
   <div>
@@ -524,7 +524,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
-    <a href="https://bit.ly/nisko-smart-ep10-podlink">Nisko Smart - EP #10 - Matter protocol for smart homes</a>
+    <a href="https://gilad.click/nisko-smart-ep10-podlink">Nisko Smart - EP #10 - Matter protocol for smart homes</a>
     <span>, February 24, 2025,</span>
   </summary>
   <div>
@@ -533,7 +533,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/osim-tochna-podlink">Osim Tochna - AI for developers (deep dive)</a>
+    <a href="https://gilad.click/osim-tochna-podlink">Osim Tochna - AI for developers (deep dive)</a>
     <span>, January 19 2025,</span>
   </summary>
   <div>
@@ -542,9 +542,9 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/simple_ai_podlink">Simple AI - EP #94 - AI for developers</a>
+    <a href="https://gilad.click/simple_ai_podlink">Simple AI - EP #94 - AI for developers</a>
     <span>, December 22, 2024,</span>
-    <a href="https://bit.ly/simple_ai_yt">Video format</a>
+    <a href="https://gilad.click/simple_ai_yt">Video format</a>
   </summary>
   <div>
   </div>
@@ -552,7 +552,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/tech-radar-mf-soundcloud">Tikal Tech Radar Voice - Micro Frontends</a>
+    <a href="https://gilad.click/tech-radar-mf-soundcloud">Tikal Tech Radar Voice - Micro Frontends</a>
     <span>, July 2, 2024,</span>
   </summary>
   <div>
@@ -561,7 +561,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 
 <details>
   <summary>
-    <a href="https://bit.ly/lo-techni-main">Lo Techni - EP #13 - Open source</a>
+    <a href="https://gilad.click/lo-techni-main">Lo Techni - EP #13 - Open source</a>
     <span>, June 23, 2024,</span>
   </summary>
   <div>
@@ -569,7 +569,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/develeap-TT-podcast-main">Front Cast - EP #21 - R&D scale in Harmony</a>
+    <a href="https://gilad.click/develeap-TT-podcast-main">Front Cast - EP #21 - R&D scale in Harmony</a>
     <span>, June 3, 2024,</span>
   </summary>
   <div>
@@ -577,7 +577,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/manager-to-leader-ep25">From manager to leader - EP #25 - Managing multi culture, multi TZ multi superstars team</a>
+    <a href="https://gilad.click/manager-to-leader-ep25">From manager to leader - EP #25 - Managing multi culture, multi TZ multi superstars team</a>
     <span>, March 13, 2024,</span>
   </summary>
   <div>
@@ -585,7 +585,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/manager-to-leader-ep23">From manager to leader - EP #23 - Hiring the best talents in the world</a>
+    <a href="https://gilad.click/manager-to-leader-ep23">From manager to leader - EP #23 - Hiring the best talents in the world</a>
     <span>, February 27, 2024,</span>
   </summary>
   <div>
@@ -593,7 +593,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dev-out-of-the-box-main-bit-part2">Dev out of the box - EP #44 - Components - part2</a>
+    <a href="https://gilad.click/dev-out-of-the-box-main-bit-part2">Dev out of the box - EP #44 - Components - part2</a>
     <span>, February 09, 2023,</span>
   </summary>
   <div>
@@ -601,7 +601,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/dev-out-of-the-box-buzzsprout-bit-part1">Dev out of the box - EP #43 - Components - part1</a>
+    <a href="https://gilad.click/dev-out-of-the-box-buzzsprout-bit-part1">Dev out of the box - EP #43 - Components - part1</a>
     <span>, July 02, 2023,</span>
   </summary>
   <div>
@@ -609,7 +609,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/open-kod-pod-ep12-podbean">Open Code - EP #12 - Component driven organizations</a>
+    <a href="https://gilad.click/open-kod-pod-ep12-podbean">Open Code - EP #12 - Component driven organizations</a>
     <span>, May 19, 2022,</span>
   </summary>
   <div>
@@ -617,7 +617,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://bit.ly/nisko-smart-ep4-podbean">Nisko Smart - EP #4 - Super user - advanced home automation</a>
+    <a href="https://gilad.click/nisko-smart-ep4-podbean">Nisko Smart - EP #4 - Super user - advanced home automation</a>
     <span>, January 10, 2022,</span>
   </summary>
   <div>
