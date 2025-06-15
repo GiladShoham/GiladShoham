@@ -384,6 +384,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Recent Panels (Hebrew)
 <details>
   <summary>
+    <a href="https://gilad.click/platforma-panel">
+Panel - The Platform Engineering Revolution: Empowering Developers Through Self-Service</a>
+    <span>, May 20, 2025,</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://bit.ly/career-panel-zoom">Career and personal growth</a>
     <span>, Dec 27, 2023,</span>
   </summary>
