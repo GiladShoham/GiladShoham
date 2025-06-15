@@ -609,7 +609,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://gilad.click/open-kod-pod-ep12-podbean">Open Code - EP #12 - Component driven organizations</a>
+    <a href="https://gilad.click/open-kod-pod-ep12-spotify">Open Code - EP #12 - Component driven organizations</a>
     <span>, May 19, 2022,</span>
   </summary>
   <div>
