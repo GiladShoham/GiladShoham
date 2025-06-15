@@ -97,7 +97,7 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
-    <a href="https://gilad.click/‏beyond-snippets-he-30m-demo">
+    <a href="https://gilad.click/beyond-snippets-he-30m-demo">
 From Generation to Composition: A New Era in AI Coding (30min + Demo version)
     </a>
     <span>, April 01, 2025, Hodash Dev</span>
