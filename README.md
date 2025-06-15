@@ -761,15 +761,15 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C371%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C371%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                19341 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-🌆 Daytime                102534 commits      ███████████████░░░░░░░░░░   61.73 % 
+🌆 Daytime                102548 commits      ███████████████░░░░░░░░░░   61.73 % 
 🌃 Evening                35502 commits       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
 🌙 Night                  8726 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
@@ -778,11 +778,11 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ```text
 Monday                   31075 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 Tuesday                  34188 commits       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Wednesday                33361 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 27948 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                33362 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 27948 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 Friday                   2678 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Saturday                 126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   36727 commits       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Sunday                   36740 commits       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 ```
 
 
@@ -807,5 +807,5 @@ communication-app        0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 19:17:56 UTC
+ Last Updated on 15/06/2025 19:23:42 UTC
 <!--END_SECTION:waka-->
