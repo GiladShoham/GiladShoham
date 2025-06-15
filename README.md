@@ -212,7 +212,7 @@ I will demonstrate how we combined these approaches in my organization and will 
 
 <details>
   <summary>
-    <a href="https://gilad.click/yt-ariel-talk)">
+    <a href="https://gilad.click/yt-ariel-talk">
       The Golem Turns On His Creator – How I took home automation too far
     </a>
     <span>, April 30, 2023, Ariel University</span>
@@ -236,7 +236,7 @@ In this talk, I will share my experience and raw footage of an experiment gone t
 
 <details>
   <summary>
-    <a href="https://gilad.click/nwd-smart-home)">
+    <a href="https://gilad.click/nwd-smart-home">
       The Golem Turns On His Creator – How I took home automation too far (Extended version)
     </a>
     <span>, December 27, 2022, Negev Web Developer Meetup</span>
