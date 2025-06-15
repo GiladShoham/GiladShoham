@@ -617,7 +617,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://gilad.click/nisko-smart-ep4-podbean">Nisko Smart - EP #4 - Super user - advanced home automation</a>
+    <a href="https://gilad.click/nisko-smart-ep4-spotify">Nisko Smart - EP #4 - Super user - advanced home automation</a>
     <span>, January 10, 2022,</span>
   </summary>
   <div>
