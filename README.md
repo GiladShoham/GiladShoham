@@ -432,7 +432,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://gilad.click/dira_lehaskil-ep2">EP #2 - How to start with home automation</a>
+    <a href="https://gilad.click/dira_lehaskil_ep2">EP #2 - How to start with home automation</a>
     <span>, March 6, 2020,</span>
   </summary>
   <div>
@@ -440,7 +440,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 </details>
 <details>
   <summary>
-    <a href="https://gilad.click/dira_lehaskil-ep1">EP #1 - Why do you need smart home</a>
+    <a href="https://gilad.click/dira_lehaskil_ep_1">EP #1 - Why do you need smart home</a>
     <span>, February 12, 2020,</span>
     <a href="http://gilad.click/dira_lehaskil_ep1_summery">Written summery</a>
   </summary>
