@@ -761,7 +761,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C375%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C375%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -809,5 +809,5 @@ att-preview2             1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 19:23:46 UTC
+ Last Updated on 29/06/2025 19:16:49 UTC
 <!--END_SECTION:waka-->
