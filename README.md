@@ -97,6 +97,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>) 
 <details>
   <summary>
+    <a href="https://gilad.click/future-of-ai-video">
+Beyond the Hype: Turning AI Code Generation into Enterprise-Ready Software
+    </a>
+    <span>, July 16, 2025, Future of AI</span>
+  </summary>
+  <div>
+AI code generators may shine in benchmarks but underdeliver in enterprise environments. They create outputs that compromise stability, increase maintenance costs, and reduce consistency. This talk introduces a new approach: enterprise-grade code generation that reuses existing assets, enforces standards, assesses impact, and delivers production-ready components.  
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/beyond-snippets-he-30m-demo">
 From Generation to Composition: A New Era in AI Coding (30min + Demo version)
     </a>
