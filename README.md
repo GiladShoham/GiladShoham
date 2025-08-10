@@ -546,6 +546,19 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://gilad.click/dev-out-of-the-box-mcp-podlink">Dev out of the box - EP #122 - MCP The protocol that changes everything</a>
+    <span>, August 10, 2025,</span>
+    <a href="https://gilad.click/dev-out-of-the-box-mcp-spotify">Spotify</a>
+  </summary>
+  <div>
+    <img src="https://res.cloudinary.com/dzc7cp7jh/image/upload/v1754836535/dev-out-of-the-box-mcp_fmchqi.jpg" alt="MCP Podcast" width="200"/>
+    <p>יש פרקים שאנחנו יודעים שהם יהיו טובים עוד לפני שאנחנו לוחצים על כפתור הרקורד - וזה אחד מהם. הכל התחיל בשיחה קטנה על איזה פרוטוקול חדש שנקרא MCP.</p>
+    <p>גלעד שהם (Bit) ולאון מלמוד (Flywire) נכנסו לאולפן וסיפרו איך שלוש אותיות הפכו לסערה בעולם ה-AI. דמיינו שה-LLM שלכם לא רק עונה על שאלות, אלא גם מחפש קבצים בגוגל דרייב, מריץ פקודות על השרת, או אפילו מפעיל את מכונת הקפה שלכם - והכל בלי לכתוב שורת קוד מיותרת.</p>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/platforma-devops-spotify">DevOps Leaders - Platfor-ma (me at 33:54)</a>
     <span>, May 20, 2025,</span>
   </summary>
