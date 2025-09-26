@@ -502,6 +502,8 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
     <a href="https://gilad.click/torc-devworld-podcast-yt">How Gilad Shoham Cracked 52 Interviews in 30 Days | Dev Career & Open Source Leadership
 </a>
     <span>, February 28, 2025,</span>
+    <a href="https://gilad.click/torc-devworld-podcast-apple">Apple Podcasts</a> |
+    <a href="https://gilad.click/torc-devworld-podcast-spotify">Spotify</a>
   </summary>
   <div>
   </div>
