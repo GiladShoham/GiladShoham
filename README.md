@@ -788,7 +788,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C405%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C404%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -817,15 +817,13 @@ Sunday                   35416 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     12 mins             █████████████░░░░░░░░░░░░   52.60 % 
-TypeScript               7 mins              █████████░░░░░░░░░░░░░░░░   34.53 % 
-JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+YAML                     12 mins             ███████████████████░░░░░░   77.98 % 
+TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-dummy-bit                15 mins             █████████████████░░░░░░░░   67.12 % 
-vilo                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.54 % 
-teambit-envs             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+dummy-bit                15 mins             █████████████████████████   99.50 % 
+teambit-envs             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 **Timeline**
@@ -833,5 +831,5 @@ teambit-envs             0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 19:06:10 UTC
+ Last Updated on 27/09/2025 19:04:34 UTC
 <!--END_SECTION:waka-->
