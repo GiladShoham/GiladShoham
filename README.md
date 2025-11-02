@@ -487,6 +487,7 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
   <summary>
     <a href="https://gilad.click/that-tech-pod-podlink">That Tech Pod - Could AI Replace Developers? The Future of Engineering</a>
     <span>, September 30, 2025,</span>
+    <a href="https://gilad.click/that-tech-pod-podlink">all platforms</a> |
     <a href="https://gilad.click/that-tech-pod-spotify">Spotify</a> |
     <a href="https://gilad.click/that-tech-pod-apple">Apple Podcasts</a>
   </summary>
