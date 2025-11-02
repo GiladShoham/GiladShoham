@@ -408,6 +408,16 @@ I’ll describe the current problems with publishing and adopting APIs, and demo
 ### Recent Panels (Hebrew)
 <details>
   <summary>
+    <a href="https://gilad.click/sass-summit-panel">
+AI Agents in Production: Lessons from the Frontlines</a>
+    <span>, October 29, 2025, SASS Summit</span>
+  </summary>
+  <div>
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/platforma-panel">
 Panel - The Platform Engineering Revolution: Empowering Developers Through Self-Service</a>
     <span>, May 20, 2025,</span>
