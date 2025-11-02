@@ -485,6 +485,20 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ### Me on other's podcast (English)
 <details>
   <summary>
+    <a href="https://gilad.click/that-tech-pod-podlink">That Tech Pod - Could AI Replace Developers? The Future of Engineering</a>
+    <span>, September 30, 2025,</span>
+    <a href="https://gilad.click/that-tech-pod-spotify">Spotify</a> |
+    <a href="https://gilad.click/that-tech-pod-apple">Apple Podcasts</a>
+  </summary>
+  <div>
+This week on That Tech Pod, Laura and Kevin are joined by Gilad Shoham, VP of Engineering at Bit, to talk about the future of AI-driven development, composable architecture, and the cyber risks that come with them. Gilad has spent his career at the intersection of startups, enterprise engineering, and open-source communities, and he brings a clear, practical perspective on how technology is evolving.
+
+We start with what composable architecture actually means, why it matters, and how it's shaping the way modern teams build software. From there, we get into AI's growing role in development, how AI-generated and reused code could introduce vulnerabilities at scale, and whether AI will replace parts of a developer's job or remain more of a "co-pilot." Gilad also shares his take on the next big shift in developer workflows over the next five years. On the personal side, Gilad reflects on his path from Israel's elite IDF programming unit, to founding startups, to leading teams at Sisense, and now scaling engineering at Bit. He talks about the lessons from his startup days that still influence how he leads, and how his experiences as a world chess champion and professional debater sneak into his everyday life.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/tcast-podlink">AI-Generated Code: Why 90% Fails and How to Win</a>
     <span>, May 15, 2025,</span>
   </summary>
