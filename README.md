@@ -121,6 +121,20 @@ AI code generators may shine in benchmarks but underdeliver in enterprise enviro
 
 <details>
   <summary>
+    <a href="https://gilad.click/modiin-tech-hope">
+From Generation to Composition: A New Era in AI Coding
+    </a>
+    <span>, July 10, 2025, Modiin Tech Meetup</span>
+  </summary>
+  <div>
+Most GenAI tools write code like interns with amnesia - fast, shallow, and unaware of the bigger picture. Not because they lack power, but because we're not giving them the right foundation.
+This talk shows how to level up your AI from code monkey to system architect by giving it what it actually needs: structure. You'll learn how composable components turn a codebase into a live map of your organization's product and business functionality that AI can understand, reuse, and build with.
+We'll explore four key principles that help AI see and use code like a great human architect, focusing on functionality, context, reuse, and system-level thinking. You'll also see a live demo of HopeAI composing real product features, by putting architecture first and syntax second.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/beyond-snippets-he-30m-demo">
 From Generation to Composition: A New Era in AI Coding (30min + Demo version)
     </a>
