@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://x.com/shohamgilad" target="blank"><img src="https://img.shields.io/twitter/follow/shohamgilad?logo=x&style=for-the-badge" alt="shohamgilad" /></a> </p>
 
 - 👥 I'm leading 3 big tech communities in Israel:
-  - **[MCP Israel](https://chat.whatsapp.com/LWN8xvhJMwODmOqxKlDQ6Z)** - Model Context Protocol community
-  - **[n8n Israel](https://chat.whatsapp.com/KqCASmPoeaIGOv8NslANKl)** - Workflow automation community
-  - **[AI Transformation Guild](https://chat.whatsapp.com/Bz2xlKleFYrGp5t8Ei94Zh)** - A community for professionals leading the AI revolution in their organizations
+  - **MCP Israel** - A general AI community with thousands of members
+  - **n8n Israel** - Workflow automation community with thousands of members
+  - **AI Transformation Guild** - A community for professionals leading the AI transformation in their organizations, with hundreds of members
 
 - 🌐 Check out my website [gilad.dev](https://gilad.dev)  
 
