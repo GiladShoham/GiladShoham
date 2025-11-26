@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [bit](https://github.com/teambit/bit)
 
+- 👥 I'm leading 3 big tech communities in Israel:
+  - **MCP Israel** - A general AI community with thousands of members
+  - **n8n Israel** - Workflow automation community with thousands of members
+  - **AI Transformation Guild** - A community for professionals leading the AI transformation in their organizations, with hundreds of members
+
 - 📝 I regularly write articles on [medium.com](https://medium.com/@giladshoham), [bit's blog](https://bit.cloud/blog/author/shohamgilad), [Hackernoon](https://hackernoon.com/u/shohamgilad), [old Hackernoon profile](https://hackernoon.com/u/giladshoham), [my home automation blog (Hebrew)](https://dira-lehaskil.com/)
 
 - 💬 Ask me about **Node.js, React, GraphQL, Mongo, Smart home, Home Assistant, Webpack, Babel, TS, Eslint**
