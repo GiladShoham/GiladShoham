@@ -99,7 +99,19 @@ Join him to learn how to:
   </div>
 </details>
 
-### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>) 
+### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>)
+<details>
+  <summary>
+    <a href="https://gilad.click/mcp-israel-meetup-ds-gilad-yt">
+From Chaos to Component: Bridging the AI Design System Gap
+    </a>
+    <span>, December 08, 2025, MCP Israel meetup @ Monday</span>
+  </summary>
+  <div>
+Most teams suffer from a "Design System gap" - either they don't have one, or their AI can't leverage it. In this talk, we'll bridge that divide. You'll learn how to use AI to extract a fresh design system from legacy apps and solve the "delivery gap" by keeping Figma and code perfectly in sync. You'll leave with a blueprint to make your components machine-readable and your workflow automated.
+  </div>
+</details>
+
 <details>
   <summary>
     <a href="https://gilad.click/yuv-ai-hope">
