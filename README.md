@@ -516,6 +516,18 @@ Panel - The Platform Engineering Revolution: Empowering Developers Through Self-
 ### Me on other's podcast (English)
 <details>
   <summary>
+    <a href="https://gilad.click/Infoq-podcast-podlink">Engineering Culture by InfoQ - Effective Mentorship and Remote Team Culture</a>
+    <span>, December 26, 2025,</span>
+    <a href="https://gilad.click/Infoq-podcast-spotify">Spotify</a> |
+    <a href="https://gilad.click/Infoq-podcast-apple">Apple Podcasts</a>
+  </summary>
+  <div>
+In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Gilad Shoham about building effective mentorship relationships, leading fully distributed teams and the evolving role of developers in an AI-augmented future.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/that-tech-pod-podlink">That Tech Pod - Could AI Replace Developers? The Future of Engineering</a>
     <span>, September 30, 2025,</span>
     <a href="https://gilad.click/that-tech-pod-podlink">all platforms</a> |
