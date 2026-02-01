@@ -152,6 +152,18 @@ We'll explore four key principles that help AI see and use code like a great hum
 
 <details>
   <summary>
+    <a href="https://gilad.click/platform-as-a-product-yt">
+Platform as a Product: Building Platforms with APIs that Developers Love
+    </a>
+    <span>, June 09, 2025, Geektime Code 2025</span>
+  </summary>
+  <div>
+A successful platform isn't just infrastructure, it's a product. To drive real adoption, platforms must offer seamless, developer-friendly APIs that integrate directly into code, eliminating the need for external docs or DevOps dependencies. Developers should be able to debug, extend, and contribute as they would with any other product. In this talk, I'll showcase real-world platform APIs and share lessons from working with dozens of platform teams, demonstrating proven strategies to build platforms that developers love to use and scale.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/beyond-snippets-he-30m-demo">
 From Generation to Composition: A New Era in AI Coding (30min + Demo version)
     </a>
