@@ -640,6 +640,19 @@ We start with what composable architecture actually means, why it matters, and h
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://gilad.click/ai-thinkers-e12">AI Thinkers - S01E12 - מדידת AI בפיתוח: למה יותר קוד לא שווה יותר תוצאות</a>
+    <span>, February 26, 2026,</span>
+    <a href="https://gilad.click/ai-thinkers-e12-spotify">Spotify</a> |
+    <a href="https://gilad.click/ai-thinkers-e12-apple">Apple Podcasts</a> |
+    <a href="https://gilad.click/ai-thinkers-e12-yt">YouTube</a>
+  </summary>
+  <div>
+שיחה ישירה ומעשית עם גלית גלפרין על מה שבאמת עוצר ארגונים מלהתקדם עם AI בפיתוח: למה מדידת שורות קוד מסוכנת, ההבדל בין code generation ל-code composition, מה מפריד מפתח סניור מ-AI ב-2026, ומה קורה כשנותנים Cursor לאנשי פרודקט בלי תשתית.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/dev-out-of-the-box-mcp-podlink">Dev out of the box - EP #122 - MCP The protocol that changes everything</a>
     <span>, August 10, 2025,</span>
     <a href="https://gilad.click/dev-out-of-the-box-mcp-spotify">Spotify</a>
