@@ -102,6 +102,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>)
 <details>
   <summary>
+    <a href="https://gilad.click/bina-aheret-yt">
+סוכני קוד בכל פינה - כך נראה עתיד הפיתוח ב-2026
+    </a>
+    <span>, January 01, 2026, TV - 10 Channel - Bina Aheret</span>
+  </summary>
+  <div>
+בסרטון זה אנחנו צוללים למהפכת ה-AI Driven Code: איך סוכני קוד וכלים כמו Lovable, Replit, Cursor ו-Claude Code משנים את הדרך שבה מפתחים ואנשים ללא רקע טכני, כותבים קוד עם AI. יחד עם גלעד שוהם מ-Bit Cloud נבין בפשטות איך AI מג'נרט קוד, מהם הסיכונים האמיתיים כמו דליפות מידע ומחיקת דאטה, והאם אנחנו בדרך לעולם שבו כמעט כל הקוד נכתב על ידי מכונות. דיון חד על עתיד המתכנתים, וייב קודינג ודמוקרטיזציה של הפיתוח.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/mcp-israel-meetup-ds-gilad-yt">
 From Chaos to Component: Bridging the AI Design System Gap
     </a>
