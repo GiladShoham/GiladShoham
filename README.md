@@ -905,53 +905,12 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C848%20hrs%208%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28025 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                149316 commits      ███████████████░░░░░░░░░░   61.65 % 
-🌃 Evening                52329 commits       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-🌙 Night                  12542 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   45163 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  49800 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                48630 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 40584 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   4031 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 199 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   53805 commits       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
-Other                    2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-HTML                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-
-🐱‍💻 Projects: 
-tokens-economy-series    5 hrs 34 mins       █████████████░░░░░░░░░░░░   53.66 % 
-ai-ides-workshops        1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-gilad-claude-marketplace 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-ran-oxlint               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-cloud-node               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 21:01:47 UTC
+ Last Updated on 15/05/2026 20:46:43 UTC
 <!--END_SECTION:waka-->
