@@ -905,12 +905,53 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C848%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28408 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                151386 commits      ███████████████░░░░░░░░░░   61.65 % 
+🌃 Evening                53066 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌙 Night                  12712 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   45789 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Tuesday                  50494 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                49303 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 41147 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4081 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Saturday                 201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   54557 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+HTML                     1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+
+🐱‍💻 Projects: 
+tokens-economy-series    5 hrs 25 mins       █████████████████░░░░░░░░   67.71 % 
+gilad-claude-marketplace 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+ran-oxlint               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+dummy-bit                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 20:46:43 UTC
+ Last Updated on 16/05/2026 20:26:57 UTC
 <!--END_SECTION:waka-->
