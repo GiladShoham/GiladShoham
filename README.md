@@ -905,51 +905,14 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C852%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28028 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                149323 commits      ███████████████░░░░░░░░░░   61.65 % 
-🌃 Evening                52332 commits       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-🌙 Night                  12542 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   45167 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  49800 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                48634 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 40584 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   4031 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 199 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   53810 commits       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-HTML                     1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-
-🐱‍💻 Projects: 
-tokens-economy-series    5 hrs 23 mins       █████████████████░░░░░░░░   67.09 % 
-ran-oxlint               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-gilad-claude-marketplace 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-dummy-bit                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-bvm                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:58:43 UTC
+ Last Updated on 19/05/2026 21:04:08 UTC
 <!--END_SECTION:waka-->
