@@ -905,25 +905,23 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C856%20hrs%2028%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                28793 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                153457 commits      ███████████████░░░░░░░░░░   61.64 % 
-🌃 Evening                53806 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌆 Daytime                153456 commits      ███████████████░░░░░░░░░░   61.65 % 
+🌃 Evening                53803 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 🌙 Night                  12882 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   46416 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  51188 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Tuesday                  51187 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 Wednesday                49977 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 41711 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 41708 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 Friday                   4131 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Saturday                 203 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Sunday                   55312 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
@@ -953,5 +951,5 @@ my-airtable-talks-worksho14 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 21:31:08 UTC
+ Last Updated on 21/05/2026 21:11:45 UTC
 <!--END_SECTION:waka-->
