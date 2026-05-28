@@ -905,50 +905,12 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C858%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                30325 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-🌆 Daytime                161746 commits      ███████████████░░░░░░░░░░   61.64 % 
-🌃 Evening                56760 commits       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-🌙 Night                  13562 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   48922 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Tuesday                  53965 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Wednesday                52683 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 43960 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   4331 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Saturday                 211 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   58321 commits       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               12 mins             ████████░░░░░░░░░░░░░░░░░   33.19 % 
-Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-WebVTT                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-HTML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-
-🐱‍💻 Projects: 
-gilad-claude-marketplace 36 mins             █████████████████████████   99.43 % 
-dummy-bit                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 21:29:25 UTC
+ Last Updated on 28/05/2026 21:43:30 UTC
 <!--END_SECTION:waka-->
