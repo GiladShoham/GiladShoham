@@ -905,53 +905,14 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C858%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C861%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28795 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                153424 commits      ███████████████░░░░░░░░░░   61.64 % 
-🌃 Evening                53810 commits       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌙 Night                  12882 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   46423 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  51177 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                49967 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Thursday                 41706 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   4130 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 203 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   55305 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 44 mins             ███████████░░░░░░░░░░░░░░   42.01 % 
-Other                    25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-HTML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-WebVTT                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-tokens-economy-series    31 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-gilad-claude-marketplace 31 mins             ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-ran-body-fix             15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-copilot-workshop-exercise15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 22:07:20 UTC
+ Last Updated on 04/06/2026 21:04:35 UTC
 <!--END_SECTION:waka-->
