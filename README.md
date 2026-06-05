@@ -905,14 +905,53 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C861%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C858%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28420 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                151362 commits      ███████████████░░░░░░░░░░   61.64 % 
+🌃 Evening                53077 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌙 Night                  12712 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   45797 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Tuesday                  50484 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                49297 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Thursday                 41157 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4080 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Saturday                 201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   54555 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 30 mins             ███████████████░░░░░░░░░░   61.05 % 
+HTML                     15 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🐱‍💻 Projects: 
+tokens-economy-series    31 mins             ████████████████░░░░░░░░░   63.31 % 
+copilot-workshop-exercise15 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+gilad-claude-marketplace 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+2026-06-08 - Geektime Cod0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+getonstage               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 21:04:35 UTC
+ Last Updated on 05/06/2026 20:58:39 UTC
 <!--END_SECTION:waka-->
