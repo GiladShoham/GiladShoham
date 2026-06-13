@@ -909,10 +909,49 @@ We start with what composable architecture actually means, why it matters, and h
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28815 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                153454 commits      ███████████████░░░░░░░░░░   61.63 % 
+🌃 Evening                53834 commits       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌙 Night                  12884 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   46424 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Tuesday                  51194 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                49985 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 41728 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4130 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Saturday                 203 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   55323 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.01 % 
+JSON                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+🐱‍💻 Projects: 
+dummy-bit                3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
+test-docs-render         1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+tokens-economy-series    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+2026-02-24- From Idea to 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+js-env                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 21:25:15 UTC
+ Last Updated on 13/06/2026 20:44:23 UTC
 <!--END_SECTION:waka-->
