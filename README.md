@@ -102,6 +102,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>)
 <details>
   <summary>
+    <a href="https://gilad.click/blank-page-to-accepted-yt">
+From Blank Page to "Accepted": Reverse Engineering a Talk Proposal
+    </a>
+    <span>, February 24, 2026, From Idea to Stage</span>
+  </summary>
+  <div>
+Getting a "Yes" from a committee isn't luck, it's engineering. Most developers fail at the CFP stage because they focus on the talk, not the pitch. Drawing from my experience on dozens of global stages, I'll reverse-engineer my workflow: from ideation and research to knowing exactly where to use (and avoid) AI. You'll leave with a proven framework to turn a blank page into a winning proposal for the world's biggest stages.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/bina-aheret-yt">
 סוכני קוד בכל פינה - כך נראה עתיד הפיתוח ב-2026
     </a>
