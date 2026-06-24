@@ -102,6 +102,19 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>)
 <details>
   <summary>
+    <a href="https://gilad.click/graph-vs-janitor-yt">
+The Graph vs. The Janitor: Organizing Code for the AI Era
+    </a>
+    <span>, May 26, 2026, PlatforMa</span>
+  </summary>
+  <div>
+AI empowers non-devs to ship code, but you're the one stuck cleaning it up. As a "rehabilitating developer," you face a grim choice: spend hours reviewing and fixing AI-generated PRs just to make them mergeable or let the work go to waste. Stop being a code janitor! I challenge you to fundamentally rethink the code-product connection.
+We will explore mapping the codebase as a relational graph of business units rather than mere lines. This creates a shared language for devs, PMs, and AI agents to understand impact and prioritize reuse over technical debt. Let's move from syntax to intent.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/blank-page-to-accepted-yt">
 From Blank Page to "Accepted": Reverse Engineering a Talk Proposal
     </a>
