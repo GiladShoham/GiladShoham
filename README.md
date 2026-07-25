@@ -937,21 +937,21 @@ We start with what composable architecture actually means, why it matters, and h
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32029 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                170108 commits      ███████████████░░░░░░░░░░   61.58 % 
-🌃 Evening                59802 commits       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌙 Night                  14299 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+🌞 Morning                32797 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 Daytime                174256 commits      ███████████████░░░░░░░░░░   61.58 % 
+🌃 Evening                61278 commits       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌙 Night                  14641 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   51479 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Tuesday                  56802 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                55377 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 46291 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   4552 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Saturday                 225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   61512 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Monday                   52731 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  58194 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Wednesday                56729 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Thursday                 47421 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4652 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Saturday                 229 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   63016 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 ```
 
 
@@ -959,18 +959,18 @@ Sunday                   61512 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Python                   1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-TypeScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Python                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 
 🐱‍💻 Projects: 
-2026-07-20 - Geektime Cod2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.84 % 
-dummy-bit                50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-mdx-envs-cleanups        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-gilad-claude-marketplace 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-mdx-envs-cleanups2       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+2026-07-20 - Geektime Cod2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+empty-dir-general-session1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+gilad-claude-marketplace 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+dummy-bit                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+mdx-envs-cleanups        43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 **Timeline**
@@ -978,5 +978,5 @@ mdx-envs-cleanups2       20 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:54:17 UTC
+ Last Updated on 25/07/2026 20:29:01 UTC
 <!--END_SECTION:waka-->
