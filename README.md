@@ -102,6 +102,18 @@ Join him to learn how to:
 ### Recent talks (Hebrew) (<a href="https://gilad.click/gilad-shoham-talks">youtube playlist</a>)
 <details>
   <summary>
+    <a href="https://gilad.click/agentic-inception-yt">
+Agentic Inception: Using Agentic Workflows to Build an Agentic Workflow Talk
+    </a>
+    <span>, July 20, 2026, Geektime Code 2026</span>
+  </summary>
+  <div>
+Faced with a massive 200-slide lecture deadline, I decided to "burn the ships" and build an agentic system to research, index, and architect the talk itself. This session moves beyond theory to show how I used n8n and AI agents to transform raw data into a professional presentation. You'll walk away with a proven framework for building agentic workflows that solve real-world "impossible" tasks.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/graph-vs-janitor-yt">
 The Graph vs. The Janitor: Organizing Code for the AI Era
     </a>
