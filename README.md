@@ -942,28 +942,28 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C916%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32797 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                174256 commits      ███████████████░░░░░░░░░░   61.58 % 
-🌃 Evening                61278 commits       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-🌙 Night                  14641 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌞 Morning                32410 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 Daytime                172187 commits      ███████████████░░░░░░░░░░   61.58 % 
+🌃 Evening                60540 commits       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+🌙 Night                  14466 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   52731 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Tuesday                  58194 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Wednesday                56729 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 47421 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   4652 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Saturday                 229 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   63016 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Monday                   52105 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Tuesday                  57496 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                56051 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Thursday                 46856 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4602 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Saturday                 227 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   62266 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 ```
 
 
@@ -971,18 +971,18 @@ Sunday                   63016 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Python                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Python                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Other                    1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 
 🐱‍💻 Projects: 
-2026-07-20 - Geektime Cod2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-empty-dir-general-session1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-gilad-claude-marketplace 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-dummy-bit                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-mdx-envs-cleanups        43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+2026-07-20 - Geektime Cod2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+empty-dir-general-session1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+gilad-claude-marketplace 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+dummy-bit                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+mdx-envs-cleanups        43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 **Timeline**
@@ -990,5 +990,5 @@ mdx-envs-cleanups        43 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 20:29:01 UTC
+ Last Updated on 26/07/2026 20:30:22 UTC
 <!--END_SECTION:waka-->
