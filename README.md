@@ -689,6 +689,18 @@ We start with what composable architecture actually means, why it matters, and h
 ### Me on other's podcast (Hebrew)
 <details>
   <summary>
+    <a href="https://gilad.click/ma-batafkid-ai-dev-role">מה בתפקיד - מה קורה לתפקיד המפתח בעידן הבינה</a>
+    <span>, July 31, 2026,</span>
+    <a href="https://gilad.click/ma-batafkid-ai-dev-role-spotify">Spotify</a> |
+    <a href="https://gilad.click/ma-batafkid-ai-dev-role-apple">Apple Podcasts</a>
+  </summary>
+  <div>
+שיחה עם אביגיל לוין וסימונה ולסקי גויכמן על השאלה שמעסיקה כל מפתח כיום: האם הבינה המלאכותית שמה קץ למקצוע הפיתוח. דיברנו על איך התפקיד באמת משתנה, מה נשאר ייחודי למפתח אנושי גם בעידן ה-AI, ולמה למרות כל החששות היום שבו התפקיד נעלם עדיין רחוק.
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/ai-thinkers-e12">AI Thinkers - S01E12 - מדידת AI בפיתוח: למה יותר קוד לא שווה יותר תוצאות</a>
     <span>, February 26, 2026,</span>
     <a href="https://gilad.click/ai-thinkers-e12-spotify">Spotify</a> |
