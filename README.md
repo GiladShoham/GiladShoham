@@ -954,12 +954,79 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C529%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2035%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32039 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 Daytime                170295 commits      ███████████████░░░░░░░░░░   61.59 % 
+🌃 Evening                59867 commits       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+🌙 Night                  14305 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   51519 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  56853 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                55429 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Thursday                 46336 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   4557 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Saturday                 225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   61587 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 14 mins       ███████████████░░░░░░░░░░   59.10 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+🐱‍💻 Projects: 
+utility-bills            2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+content-agents           1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
+gilad-claude-marketplace 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+dummy-bit                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+web-app                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 16 mins (96.39%)
+
+✍️ 2,334 lines written by AI, 36 lines written by hand (98.48% AI-written)
+
+🔤 69,996,404 Input Tokens, 414,690 Output Tokens
+
+💵 $215.94 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 96 AI Prompts
+
+Sonnet                   2,342 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.48% of written lines came from AI
+📚 Verbose Prompter — average 2,350 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.51% of changed lines were hand-edited
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:13:26 UTC
+ Last Updated on 07/08/2026 20:23:21 UTC
 <!--END_SECTION:waka-->
