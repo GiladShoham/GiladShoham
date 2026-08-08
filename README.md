@@ -985,42 +985,42 @@ Sunday                   61587 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 14 mins       ███████████████░░░░░░░░░░   59.10 % 
-JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Markdown                 2 hrs 12 mins       █████████████░░░░░░░░░░░░   53.56 % 
+JSON                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🐱‍💻 Projects: 
-utility-bills            2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-content-agents           1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
-gilad-claude-marketplace 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-dummy-bit                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-web-app                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+utility-bills            2 hrs 14 mins       ██████████████░░░░░░░░░░░   54.55 % 
+content-agents           46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+gilad-claude-marketplace 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+dummy-bit                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Desktop                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (96.39%)
+⏱ AI Coding Time: 3 hrs 54 mins (95.2%)
 
-✍️ 2,334 lines written by AI, 36 lines written by hand (98.48% AI-written)
+✍️ 1,885 lines written by AI, 36 lines written by hand (98.13% AI-written)
 
-🔤 69,996,404 Input Tokens, 414,690 Output Tokens
+🔤 57,505,445 Input Tokens, 338,865 Output Tokens
 
-💵 $215.94 Estimated AI Cost This Week
+💵 $190.20 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 96 AI Prompts
+🧠 19 AI Sessions, 76 AI Prompts
 
-Sonnet                   2,342 lines         █████████████████████████   100.00 % 
+Sonnet                   1,893 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.48% of written lines came from AI
-📚 Verbose Prompter — average 2,350 characters per prompt
+🤖 AI-Driven — 98.13% of written lines came from AI
+📚 Verbose Prompter — average 1,608 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.51% of changed lines were hand-edited
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1028,5 +1028,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 20:23:21 UTC
+ Last Updated on 08/08/2026 19:55:36 UTC
 <!--END_SECTION:waka-->
