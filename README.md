@@ -954,30 +954,30 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C550%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C557%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34739 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                184861 commits      ███████████████░░░░░░░░░░   61.59 % 
-🌃 Evening                65057 commits       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-🌙 Night                  15512 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌞 Morning                36668 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌆 Daytime                195277 commits      ███████████████░░░░░░░░░░   61.58 % 
+🌃 Evening                68787 commits       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+🌙 Night                  16388 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   55923 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Tuesday                  61734 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Wednesday                60183 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 50291 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   4907 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Saturday                 239 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   66892 commits       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Monday                   59073 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  65220 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Wednesday                63602 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Thursday                 53139 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   5157 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Saturday                 249 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   70680 commits       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 ```
 
 
@@ -985,42 +985,43 @@ Sunday                   66892 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.41 % 
-Markdown                 5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-JSON                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               14 hrs 19 mins      █████████████░░░░░░░░░░░░   50.04 % 
+Markdown                 8 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+JSON                     4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-bit                      14 hrs 6 mins       ████████████████░░░░░░░░░   65.64 % 
-super-sync               3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-webpack-core-aspect      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-dummy-bit                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-8c6442a3                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+bit                      18 hrs 55 mins      █████████████████░░░░░░░░   66.09 % 
+super-sync               3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+webpack-core-aspect      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+dummy-bit                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+my-contacts              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 41 mins (91.57%)
+⏱ AI Coding Time: 26 hrs 46 mins (93.49%)
 
-✍️ 5,782 lines written by AI, 306 lines written by hand (94.97% AI-written)
+✍️ 10,585 lines written by AI, 314 lines written by hand (97.12% AI-written)
 
-🔤 10,401,871 Input Tokens, 1,362,392 Output Tokens
+🔤 12,700,880 Input Tokens, 1,866,354 Output Tokens
 
-💵 $339.32 Estimated AI Cost This Week
+💵 $388.92 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 88 AI Prompts
+🧠 29 AI Sessions, 129 AI Prompts
 
-Opus                     3,830 lines         ████████████████░░░░░░░░░   63.55 % 
-Sonnet                   2,197 lines         █████████░░░░░░░░░░░░░░░░   36.45 % 
+Sonnet                   6,197 lines         ██████████████░░░░░░░░░░░   56.80 % 
+Opus                     3,830 lines         █████████░░░░░░░░░░░░░░░░   35.11 % 
+Haiku                    883 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.97% of written lines came from AI
-📄 Detailed Prompter — average 853 characters per prompt
+🤖 AI-Driven — 97.12% of written lines came from AI
+📄 Detailed Prompter — average 1,354 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.1% of changed lines were hand-edited
+🚀 High AI Trust — 2.95% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1028,5 +1029,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 20:43:18 UTC
+ Last Updated on 13/08/2026 20:43:58 UTC
 <!--END_SECTION:waka-->
