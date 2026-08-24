@@ -954,7 +954,7 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C582%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C582%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2011%20mins-blue?style=flat)
 
@@ -964,20 +964,20 @@ We start with what composable architecture actually means, why it matters, and h
 
 ```text
 🌞 Morning                33909 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-🌆 Daytime                179610 commits      ███████████████░░░░░░░░░░   61.49 % 
+🌆 Daytime                179626 commits      ███████████████░░░░░░░░░░   61.49 % 
 🌃 Evening                63395 commits       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
 🌙 Night                  15206 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   54390 commits       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Monday                   54401 commits       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 Tuesday                  59982 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                58578 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Wednesday                58579 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 Thursday                 48908 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Friday                   4826 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 Saturday                 233 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   65203 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Sunday                   65207 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 
 
@@ -985,43 +985,43 @@ Sunday                   65203 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 1 min        ███████████████░░░░░░░░░░   58.59 % 
-Markdown                 4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               13 hrs 10 mins      ███████████████░░░░░░░░░░   59.58 % 
+Markdown                 6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-my-contacts              6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-bit                      5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-bit3                     3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-dummy-bit                3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-my-posts                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+my-contacts              14 hrs 35 mins      █████████████████░░░░░░░░   66.04 % 
+bit                      4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+bit3                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+bvm                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+dummy-bit                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 6 mins (97.92%)
+⏱ AI Coding Time: 21 hrs 51 mins (98.91%)
 
-✍️ 17,176 lines written by AI, 31 lines written by hand (99.82% AI-written)
+✍️ 25,268 lines written by AI, 10 lines written by hand (99.96% AI-written)
 
-🔤 12,611,426 Input Tokens, 2,219,061 Output Tokens
+🔤 12,891,342 Input Tokens, 2,638,703 Output Tokens
 
-💵 $325.82 Estimated AI Cost This Week
+💵 $445.62 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 101 AI Prompts
+🧠 27 AI Sessions, 144 AI Prompts
 
-Sonnet                   17,443 lines        █████████████████████░░░░   84.25 % 
-Opus                     3,000 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Haiku                    262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Sonnet                   22,002 lines        ███████████████████░░░░░░   77.65 % 
+Opus                     6,070 lines         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Haiku                    262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 2,290 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 2,598 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:45:45 UTC
+ Last Updated on 24/08/2026 20:09:48 UTC
 <!--END_SECTION:waka-->
