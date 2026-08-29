@@ -963,21 +963,21 @@ We start with what composable architecture actually means, why it matters, and h
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                33527 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-🌆 Daytime                177562 commits      ███████████████░░░░░░░░░░   61.49 % 
-🌃 Evening                62662 commits       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-🌙 Night                  15035 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+🌞 Morning                33530 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌆 Daytime                177567 commits      ███████████████░░░░░░░░░░   61.48 % 
+🌃 Evening                62667 commits       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+🌙 Night                  15036 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   53775 commits       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Tuesday                  59287 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                57918 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Thursday                 48346 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   4776 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Tuesday                  59288 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                57924 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Thursday                 48349 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Friday                   4777 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 Saturday                 231 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   64453 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Sunday                   64456 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 
 
@@ -985,41 +985,19 @@ Sunday                   64453 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ██████████████████░░░░░░░   70.32 % 
-Markdown                 1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ███████████████████░░░░░░   75.10 % 
+JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 
 🐱‍💻 Projects: 
-my-contacts              6 hrs 39 mins       ███████████████████████░░   93.64 % 
-bvm                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-dummy-bit                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-bit                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-my-posts                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+dummy-bit                0 secs              ████████████░░░░░░░░░░░░░   46.62 % 
+bit                      0 secs              ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+my-posts                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 4 mins (99.69%)
-
-✍️ 6,634 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,626,193 Input Tokens, 885,476 Output Tokens
-
-💵 $118.32 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 31 AI Prompts
-
-Sonnet                   6,958 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,874 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
@@ -1027,5 +1005,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 03:13:03 UTC
+ Last Updated on 29/08/2026 02:49:27 UTC
 <!--END_SECTION:waka-->
