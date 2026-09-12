@@ -954,9 +954,9 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C598%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C599%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -985,43 +985,43 @@ Sunday                   65070 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
-Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🐱‍💻 Projects: 
-bit                      7 hrs 46 mins       ████████████████░░░░░░░░░   62.65 % 
-bit3                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-super-sync               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-bit-cloud-bundle         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-llm-sandbox              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+bit                      7 hrs 46 mins       ███████████████░░░░░░░░░░   59.43 % 
+bit3                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+super-sync               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+bit-cloud-bundle         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+rosh-hashana             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 3 mins (97.19%)
+⏱ AI Coding Time: 12 hrs 43 mins (97.25%)
 
-✍️ 4,030 lines written by AI, 8 lines written by hand (99.8% AI-written)
+✍️ 5,058 lines written by AI, 9 lines written by hand (99.82% AI-written)
 
-🔤 7,768,206 Input Tokens, 1,388,077 Output Tokens
+🔤 8,186,771 Input Tokens, 1,452,123 Output Tokens
 
-💵 $174.11 Estimated AI Cost This Week
+💵 $180.30 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 183 AI Prompts
+🧠 25 AI Sessions, 192 AI Prompts
 
-Sonnet                   3,676 lines         ██████████████████████░░░   86.45 % 
-Haiku                    576 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Sonnet                   4,710 lines         ██████████████████████░░░   89.10 % 
+Haiku                    576 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 2,417 characters per prompt
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 2,497 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 22:10:54 UTC
+ Last Updated on 12/09/2026 21:38:49 UTC
 <!--END_SECTION:waka-->
