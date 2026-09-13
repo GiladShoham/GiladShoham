@@ -985,24 +985,24 @@ Sunday                   65070 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+TypeScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
+Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🐱‍💻 Projects: 
-bit                      7 hrs 46 mins       ███████████████░░░░░░░░░░   59.43 % 
-bit3                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-super-sync               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-bit-cloud-bundle         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-rosh-hashana             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+bit                      7 hrs 46 mins       ███████████████░░░░░░░░░░   60.05 % 
+bit3                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+super-sync               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+bit-cloud-bundle         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+rosh-hashana             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (97.25%)
+⏱ AI Coding Time: 12 hrs 35 mins (97.22%)
 
 ✍️ 5,058 lines written by AI, 9 lines written by hand (99.82% AI-written)
 
@@ -1010,7 +1010,7 @@ rosh-hashana             39 mins             █░░░░░░░░░░�
 
 💵 $180.30 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 192 AI Prompts
+🧠 24 AI Sessions, 183 AI Prompts
 
 Sonnet                   4,710 lines         ██████████████████████░░░   89.10 % 
 Haiku                    576 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
@@ -1019,7 +1019,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 2,497 characters per prompt
+📚 Verbose Prompter — average 2,602 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
@@ -1029,5 +1029,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 21:38:49 UTC
+ Last Updated on 13/09/2026 21:54:18 UTC
 <!--END_SECTION:waka-->
