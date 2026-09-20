@@ -954,17 +954,17 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C605%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C606%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35093 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                185480 commits      ███████████████░░░░░░░░░░   61.45 % 
+🌞 Morning                35094 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                185481 commits      ███████████████░░░░░░░░░░   61.45 % 
 🌃 Evening                65546 commits       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 🌙 Night                  15740 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
@@ -977,7 +977,7 @@ Wednesday                60544 commits       █████░░░░░░�
 Thursday                 50518 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Friday                   4998 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Saturday                 251 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   67353 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Sunday                   67355 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
 ```
 
 
@@ -985,43 +985,43 @@ Sunday                   67353 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Markdown                 1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+TypeScript               2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🐱‍💻 Projects: 
-web-app                  3 hrs 58 mins       ██████████████░░░░░░░░░░░   57.77 % 
-llm-sandbox              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-herdr-remote             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Bills                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-my-contacts              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+web-app                  3 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.68 % 
+llm-sandbox              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+empty-dir                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+herdr-remote             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Bills                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 42 mins (97.43%)
+⏱ AI Coding Time: 8 hrs 4 mins (94.87%)
 
-✍️ 8,505 lines written by AI, 19 lines written by hand (99.78% AI-written)
+✍️ 9,156 lines written by AI, 52 lines written by hand (99.44% AI-written)
 
-🔤 2,558,012 Input Tokens, 659,689 Output Tokens
+🔤 2,931,713 Input Tokens, 756,725 Output Tokens
 
-💵 $42.56 Estimated AI Cost This Week
+💵 $47.87 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 198 AI Prompts
+🧠 30 AI Sessions, 233 AI Prompts
 
-Sonnet                   7,251 lines         ████████████████████░░░░░   81.84 % 
-Haiku                    1,569 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Opus                     40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Sonnet                   7,902 lines         █████████████████████░░░░   83.08 % 
+Haiku                    1,569 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Opus                     40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 2,225 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 99.44% of written lines came from AI
+📚 Verbose Prompter — average 2,049 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 22:00:33 UTC
+ Last Updated on 20/09/2026 21:57:51 UTC
 <!--END_SECTION:waka-->
