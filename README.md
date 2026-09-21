@@ -954,11 +954,11 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C606%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C607%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -985,43 +985,43 @@ Sunday                   67355 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
-TypeScript               2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
+TypeScript               2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🐱‍💻 Projects: 
-web-app                  3 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-llm-sandbox              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-empty-dir                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-herdr-remote             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Bills                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+web-app                  3 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
+sys1it                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+llm-sandbox              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+empty-dir                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+herdr-remote             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 4 mins (94.87%)
+⏱ AI Coding Time: 8 hrs 42 mins (95.23%)
 
-✍️ 9,156 lines written by AI, 52 lines written by hand (99.44% AI-written)
+✍️ 10,066 lines written by AI, 52 lines written by hand (99.49% AI-written)
 
-🔤 2,931,713 Input Tokens, 756,725 Output Tokens
+🔤 3,428,724 Input Tokens, 841,744 Output Tokens
 
-💵 $47.87 Estimated AI Cost This Week
+💵 $63.35 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 233 AI Prompts
+🧠 33 AI Sessions, 244 AI Prompts
 
-Sonnet                   7,902 lines         █████████████████████░░░░   83.08 % 
-Haiku                    1,569 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Opus                     40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Sonnet                   8,831 lines         █████████████████████░░░░   84.59 % 
+Haiku                    1,569 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Opus                     40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📚 Verbose Prompter — average 2,049 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 1,970 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:57:51 UTC
+ Last Updated on 21/09/2026 23:09:41 UTC
 <!--END_SECTION:waka-->
