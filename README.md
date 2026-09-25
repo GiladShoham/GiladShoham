@@ -954,30 +954,30 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C610%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C611%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35100 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                185487 commits      ███████████████░░░░░░░░░░   61.44 % 
-🌃 Evening                65557 commits       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-🌙 Night                  15740 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+🌞 Morning                35489 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                187568 commits      ███████████████░░░░░░░░░░   61.44 % 
+🌃 Evening                66304 commits       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+🌙 Night                  15913 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   56194 commits       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Tuesday                  62002 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Wednesday                60558 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Thursday                 50526 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   4998 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 251 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   67355 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Monday                   56820 commits       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Tuesday                  62700 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Wednesday                61245 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Thursday                 51092 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Friday                   5052 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Saturday                 253 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   68112 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
 ```
 
 
@@ -985,41 +985,41 @@ Sunday                   67355 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs               ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Markdown                 2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
+Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🐱‍💻 Projects: 
-llm-sandbox              2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-sys1it                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-gilad-claude-marketplace 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-empty-dir                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-bit3                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+gilad-claude-marketplace 2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+sys1it                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+llm-sandbox              59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+empty-dir                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+bit3                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 32 mins (94.29%)
+⏱ AI Coding Time: 7 hrs 37 mins (93.65%)
 
-✍️ 6,023 lines written by AI, 58 lines written by hand (99.05% AI-written)
+✍️ 6,505 lines written by AI, 58 lines written by hand (99.12% AI-written)
 
-🔤 3,358,572 Input Tokens, 646,852 Output Tokens
+🔤 5,421,770 Input Tokens, 788,203 Output Tokens
 
-💵 $59.45 Estimated AI Cost This Week
+💵 $74.84 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 484 AI Prompts
+🧠 71 AI Sessions, 249 AI Prompts
 
-Sonnet                   6,115 lines         █████████████████████████   100.00 % 
+Sonnet                   6,647 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📚 Verbose Prompter — average 2,704 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🤖 AI-Driven — 99.12% of written lines came from AI
+📚 Verbose Prompter — average 3,062 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1027,5 +1027,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 22:47:25 UTC
+ Last Updated on 25/09/2026 22:51:25 UTC
 <!--END_SECTION:waka-->
