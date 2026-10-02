@@ -954,30 +954,30 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C619%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C623%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35517 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                187738 commits      ███████████████░░░░░░░░░░   61.45 % 
-🌃 Evening                66379 commits       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-🌙 Night                  15867 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+🌞 Morning                36697 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+🌆 Daytime                194162 commits      ███████████████░░░░░░░░░░   61.46 % 
+🌃 Evening                68659 commits       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+🌙 Night                  16386 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   56832 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Tuesday                  62757 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Wednesday                61301 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Thursday                 51109 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Friday                   5062 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 253 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   68187 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Monday                   58754 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Tuesday                  64898 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Wednesday                63396 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Thursday                 52845 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Friday                   5228 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Saturday                 259 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   70524 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 
 
@@ -985,43 +985,43 @@ Sunday                   68187 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
-Markdown                 3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Python                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TypeScript               5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
+Markdown                 3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🐱‍💻 Projects: 
-my-contacts              5 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-gilad-claude-marketplace 2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-super-sync               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-web-app                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-llm-sandbox              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+my-contacts              7 hrs 34 mins       ███████████████░░░░░░░░░░   58.57 % 
+super-sync               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+gilad-claude-marketplace 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+web-app                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+fz1073-story             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 25 mins (98.2%)
+⏱ AI Coding Time: 12 hrs 50 mins (99.41%)
 
-✍️ 12,072 lines written by AI, 29 lines written by hand (99.76% AI-written)
+✍️ 14,171 lines written by AI, 41 lines written by hand (99.71% AI-written)
 
-🔤 9,914,234 Input Tokens, 1,596,995 Output Tokens
+🔤 11,526,915 Input Tokens, 1,569,868 Output Tokens
 
-💵 $158.13 Estimated AI Cost This Week
+💵 $159.42 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 284 AI Prompts
+🧠 35 AI Sessions, 225 AI Prompts
 
-Sonnet                   10,850 lines        ██████████████████████░░░   88.11 % 
-Opus                     1,464 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sonnet                   11,785 lines        █████████████████████░░░░   82.14 % 
+Opus                     2,562 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 2,295 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🤖 AI-Driven — 99.71% of written lines came from AI
+📚 Verbose Prompter — average 2,469 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 23:31:20 UTC
+ Last Updated on 02/10/2026 00:03:39 UTC
 <!--END_SECTION:waka-->
