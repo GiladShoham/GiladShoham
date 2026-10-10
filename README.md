@@ -954,30 +954,30 @@ We start with what composable architecture actually means, why it matters, and h
     alt="giladshoham" /></p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C647%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C651%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                37114 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-🌆 Daytime                196444 commits      ███████████████░░░░░░░░░░   61.46 % 
-🌃 Evening                69509 commits       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-🌙 Night                  16563 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+🌞 Morning                36725 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌆 Daytime                194366 commits      ███████████████░░░░░░░░░░   61.46 % 
+🌃 Evening                68766 commits       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌙 Night                  16390 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   59436 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Tuesday                  65616 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                64129 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Thursday                 53542 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   5296 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Saturday                 261 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Sunday                   71350 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Monday                   58810 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Tuesday                  64918 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                63450 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Thursday                 52975 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Friday                   5242 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Saturday                 259 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sunday                   70593 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 
 
@@ -985,43 +985,43 @@ Sunday                   71350 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
-TypeScript               10 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Markdown                 7 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Other                    12 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.17 % 
+TypeScript               10 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Markdown                 8 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Bash                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🐱‍💻 Projects: 
-my-contacts              24 hrs 58 mins      █████████████████░░░░░░░░   68.28 % 
-ripple-container         4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-llm-sandbox              3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-gilad-claude-marketplace 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-empty-dir-general-session37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+my-contacts              28 hrs 19 mins      ██████████████████░░░░░░░   70.80 % 
+ripple-container         4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+llm-sandbox              3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+gilad-claude-marketplace 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+empty-dir-general-session41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 38 mins (97.47%)
+⏱ AI Coding Time: 39 hrs 3 mins (97.61%)
 
-✍️ 46,964 lines written by AI, 129 lines written by hand (99.73% AI-written)
+✍️ 50,251 lines written by AI, 134 lines written by hand (99.73% AI-written)
 
-🔤 23,819,685 Input Tokens, 3,026,844 Output Tokens
+🔤 27,061,347 Input Tokens, 3,151,856 Output Tokens
 
-💵 $329.29 Estimated AI Cost This Week
+💵 $373.09 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 1001 AI Prompts
+🧠 92 AI Sessions, 1065 AI Prompts
 
-Opus                     32,157 lines        ████████████████░░░░░░░░░   63.85 % 
-Sonnet                   18,199 lines        █████████░░░░░░░░░░░░░░░░   36.13 % 
+Opus                     35,212 lines        ████████████████░░░░░░░░░   65.63 % 
+Sonnet                   18,431 lines        █████████░░░░░░░░░░░░░░░░   34.35 % 
 Haiku                    9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.73% of written lines came from AI
-📚 Verbose Prompter — average 2,062 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,097 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1029,5 +1029,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 23:56:15 UTC
+ Last Updated on 10/10/2026 22:48:47 UTC
 <!--END_SECTION:waka-->
