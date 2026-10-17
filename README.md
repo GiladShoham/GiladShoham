@@ -956,7 +956,7 @@ We start with what composable architecture actually means, why it matters, and h
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C657%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -985,42 +985,42 @@ Sunday                   75924 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 47 mins       █████████████░░░░░░░░░░░░   50.47 % 
-Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-TypeScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Other                    11 hrs              ████████████████░░░░░░░░░   63.71 % 
+Markdown                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-my-contacts              5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-super-sync               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-mdx-issue                2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-anthropic-scion-vs-bit   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-re-invent                1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+super-sync               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+mdx-issue                3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+my-contacts              2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+anthropic-scion-vs-bit   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+re-invent                1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 39 mins (96.25%)
+⏱ AI Coding Time: 16 hrs 23 mins (94.94%)
 
-✍️ 8,822 lines written by AI, 145 lines written by hand (98.38% AI-written)
+✍️ 5,535 lines written by AI, 141 lines written by hand (97.52% AI-written)
 
-🔤 13,424,643 Input Tokens, 1,048,051 Output Tokens
+🔤 10,721,667 Input Tokens, 988,933 Output Tokens
 
-💵 $164.44 Estimated AI Cost This Week
+💵 $126.06 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 253 AI Prompts
+🧠 53 AI Sessions, 194 AI Prompts
 
-Opus                     7,873 lines         ██████████████████████░░░   89.24 % 
-Sonnet                   949 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Opus                     4,818 lines         ██████████████████████░░░   87.05 % 
+Sonnet                   717 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📚 Verbose Prompter — average 2,059 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🤖 AI-Driven — 97.52% of written lines came from AI
+📚 Verbose Prompter — average 1,817 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.48% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1028,5 +1028,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 22:41:55 UTC
+ Last Updated on 17/10/2026 21:49:52 UTC
 <!--END_SECTION:waka-->
