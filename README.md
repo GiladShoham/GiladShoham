@@ -58,6 +58,27 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
+    <a href="https://gilad.click/hope-devworld-yt">Beyond Snippets: Optimizing Code Generation by Reusing Existing Components</a>
+    <span>, Feb 28, 2025, Devworld Conference</span>
+  </summary>
+  <div>
+AI code generators are getting better all the time, consistently outperforming previous models in benchmarks. However, while they excel in benchmarks, their practical application within organizations remains limited to superficial tasks, often serving as shortcuts for minor coding challenges or basic information retrieval. Why is it that they haven’t revolutionized the whole development process yet?
+
+Whether you’re in a session with Gemini or getting autocomplete code from Copilot, what you get is a code snippet. Unfortunately, turning that code snippet into a usable, executable code that is a viable part of your project - that is a whole different story.
+
+Snippets suffer from several critical limitations:
+- Lack of Contextual Awareness: Generated from scratch without using existing code, snippets often duplicate functionality, increasing maintenance overhead.
+- Isolation: Snippets operate in isolation, not taking into account project-specific tools, standards, and policies.
+- Manual Integration: Snippets require manual review and integration into the codebase, potentially introducing errors and slowing development.
+- Unpredictable Impact: Snippets can’t be tested or run before integrating them with the rest of the code, so the consequences of integrating them on the overall codebase are uncertain.
+
+This talk introduces a new approach to code generation that addresses all of the above limitations: It reuses the existing code in the codebase, taking into account company standards and policies; tests the generated code and shows its potential impact on the rest of the codebase; and once approved - creates a fully executable code component that is readily available for use and is seamlessly integrated with your project.
+
+  </div>
+</details>
+
+<details>
+  <summary>
     <a href="https://gilad.click/react-advanced-cod">Code on Demand: The Future of Code Collaboration</a>
     <span>, Oct 23, 2023, React Advanced London</span>
   </summary>
