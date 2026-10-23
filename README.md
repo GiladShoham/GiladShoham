@@ -985,7 +985,7 @@ We start with what composable architecture actually means, why it matters, and h
 
 ```text
 🌞 Morning                38688 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-🌆 Daytime                204899 commits      ███████████████░░░░░░░░░░   61.46 % 
+🌆 Daytime                204898 commits      ███████████████░░░░░░░░░░   61.46 % 
 🌃 Evening                72510 commits       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 🌙 Night                  17269 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
@@ -994,8 +994,8 @@ We start with what composable architecture actually means, why it matters, and h
 ```text
 Monday                   61968 commits       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 Tuesday                  68438 commits       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                66910 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Thursday                 55828 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                66908 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Thursday                 55829 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 Friday                   5522 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Saturday                 269 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Sunday                   74431 commits       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
@@ -1006,41 +1006,41 @@ Sunday                   74431 commits       ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 15 mins       ████████████████████░░░░░   78.79 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    3 hrs 36 mins       ███████████████████░░░░░░   76.49 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-my-silabuses             1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-md-editor-plus           1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-my-contacts              1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-llm-sandbox              47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-my-unifi                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+my-silabuses             1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+md-editor-plus           1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+my-contacts              1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+llm-sandbox              47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+empty-dir-general-session7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (96.1%)
+⏱ AI Coding Time: 4 hrs 29 mins (95.53%)
 
-✍️ 419 lines written by AI, 24 lines written by hand (94.58% AI-written)
+✍️ 403 lines written by AI, 24 lines written by hand (94.38% AI-written)
 
-🔤 2,378,309 Input Tokens, 267,511 Output Tokens
+🔤 1,905,983 Input Tokens, 243,390 Output Tokens
 
-💵 $22.06 Estimated AI Cost This Week
+💵 $19.43 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 170 AI Prompts
+🧠 14 AI Sessions, 160 AI Prompts
 
-Sonnet                   403 lines           ████████████████████████░   96.18 % 
-Opus                     16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Sonnet                   403 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.58% of written lines came from AI
-📚 Verbose Prompter — average 2,103 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.42% of changed lines were hand-edited
+🤖 AI-Driven — 94.38% of written lines came from AI
+📚 Verbose Prompter — average 2,162 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 5.62% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -1048,5 +1048,5 @@ Opus                     16 lines            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GiladShoham/GiladShoham/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 22:58:16 UTC
+ Last Updated on 23/10/2026 22:44:19 UTC
 <!--END_SECTION:waka-->
